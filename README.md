@@ -21,6 +21,10 @@ The repository is prepared for a zero-cost starter deployment using GitHub Pages
 
 `API_URL`, `DATABASE_URL`, and `CORS_ORIGIN` are intentionally not committed. If the database schema changes, Render applies each new numbered SQL migration once using `npm run db:migrate`.
 
+### Render troubleshooting
+
+The Render URL must respond with `{"status":"ok"}` at `/api/health`. If the URL returns Render's plain `Not Found` page for both `/` and `/api/health`, the domain is not connected to the Express app. In the Render dashboard, confirm that the service is a **Web Service** built from the `main` branch at the repository root, then manually deploy the latest commit. Its build command should be `npm ci && npm run build && npm run db:migrate`, its start command should be `npm start`, and the logs should contain `Souvenir Compass API listening on port ...`.
+
 ## Free public preview
 
 Run `docker compose up -d --build app` and then create a free Cloudflare quick tunnel:
