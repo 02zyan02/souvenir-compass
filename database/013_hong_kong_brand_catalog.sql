@@ -1,0 +1,31 @@
+INSERT INTO countries (slug,name,chinese_name,flag,city,buy,chinese_buy,tip,chinese_tip,shopping_location,reference_url)
+VALUES (
+  'hong-kong','Hong Kong','香港','🇭🇰','Hong Kong',
+  'heritage bakery gifts, Hong Kong design objects and transport miniatures',
+  '传统饼食礼盒、香港设计小物与交通模型',
+  'Buy fragile egg rolls near the end of the trip, and visit Central Market or PMQ for independent local-design labels.',
+  '易碎蛋卷建议在行程后段购买；中环街市和PMQ适合寻找本地独立设计品牌。',
+  'Central Market, PMQ, Causeway Bay, Mong Kok and Hong Kong International Airport.',
+  'https://www.discoverhongkong.com/eng/explore/shopping/hong-kong-souvenirs-where-to-shop-authentic-gifts.html'
+);
+
+INSERT INTO products (country_id,name,chinese_name,price,price_amount,currency_code,category,image_url,tag,note,description,why_buy,local_price,typical_overseas_price,savings,best_shops,airport_availability,online_availability,rating,review_count,reference_url)
+SELECT c.id,v.name,v.chinese_name,v.price,v.price_amount,'HKD',v.category,v.image_url,v.tag,v.note,v.description,v.why_buy,v.price,v.typical_overseas_price,v.savings,v.best_shops,v.airport,v.online,v.rating,v.review_count,v.source_url
+FROM (VALUES
+  ('Kee Wah Bakery classic egg roll gift box','奇华饼家经典蛋卷礼盒','from HK$98',98,'Snacks','https://keewah.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/2/2/22kw_1400x1400___8_1.jpg','Hong Kong bakery icon','Keep the tin flat in hand luggage; the rolls are delicate.','A Hong Kong-made gift tin of thin, crisp butter egg rolls in classic and regional flavours.','Kee Wah has been part of Hong Kong baking culture since 1938, and the sealed gift tin is easy to share.','From US$13.50 abroad when available.','Buying locally gives fresher stock, more flavours and Hong Kong-only packaging.','Kee Wah branches, IFC Mall, Citygate and Hong Kong International Airport.','Yes, including airport outlets; check terminal stock.','Official Kee Wah e-shop and selected overseas distributors.',4.8,1264,'https://keewah.com/en/eggrolls-new.html'),
+  ('TINY City 32 Hong Kong Tram model','TINY City 32 香港电车模型','HK$89',89,'Home','https://www.tiny.com.hk:443/34062/0/0/__ImageGrabber.axd?d=60','Hong Kong transport icon','Keep the small parts and packaging in your carry-on.','A detailed 1/120 die-cast replica of an iconic Hong Kong double-decker tram.','It is an officially licensed, distinctly local collectible rather than a generic toy-car souvenir.','About US$15–25 from overseas specialist sellers.','Local stores offer the widest selection of routes, liveries and limited editions.','TINY at The Peak, Central Market and selected malls.','Limited; buy in town for choice.','TINY Hong Kong e-shop and specialist model retailers.',4.8,734,'https://www.tiny.com.hk/locale/en-US/product/ATC66115'),
+  ('G.O.D. Hong Kong Festive Skyline foldable shopping bag','G.O.D.香港节庆天际线折叠购物袋','HK$238',238,'Fashion','https://god.com.hk/cdn/shop/products/ZipBag02a_1200x1200.jpg?v=1669615720','Local design label','It folds into its zip wallet, so it takes almost no luggage space.','A reusable foldable tote printed with G.O.D.''s colourful Hong Kong skyline artwork.','G.O.D. turns local visual culture—skyline, neon, taxis and harbour life—into genuinely usable design.','About US$40–55 when imported, if stocked.','Buying in Hong Kong avoids import mark-ups and gives access to local-only prints.','G.O.D. Central flagship, PMQ and selected design retailers.','Limited airport availability.','Official G.O.D. web store ships selected products internationally.',4.7,492,'https://god.com.hk/products/hong-kong-festive-skyline-zip-wallet-shopping-bag'),
+  ('The Lion Rock Press Hong Kong Central postcard','狮子山出版社香港中环明信片','HK$30',30,'Home','https://www.thelionrockpress.com/cdn/shop/files/1_15ee0932-5e10-4bbe-bb58-19b9c1d1637a.png?v=1697787231','Illustrated Hong Kong','Buy a small set and mail one from Hong Kong while keeping the rest.','An illustrated keepsake postcard celebrating the architecture and streetscape of Central.','It is affordable, flat-packed and made by a local studio focused on Hong Kong stories and bilingual gifts.','About US$6–10 plus international postage.','Local pickup is cheaper and lets you browse the full city-themed series.','The Lion Rock Press showroom in Sheung Wan and selected museum/design shops.','No.','Official Lion Rock Press online store offers international delivery.',4.7,318,'https://www.thelionrockpress.com/products/postcard-hong-kong-central'),
+  ('The Wax Can egg tart scented candle','The Wax Can 蛋挞味香薰蜡烛','HK$195',195,'Home','https://thewaxcan.com/cdn/shop/files/photo-1_c1b77505-4f7c-4c53-ac9e-a1f31cbdb377.jpg?v=1730036856','Egg tart memory','Wrap carefully and keep it upright; check airline rules for candles.','A Hong Kong handmade, egg-tart-shaped candle with a warm buttery bakery scent.','It captures a famous Hong Kong flavour in an inventive, locally made home fragrance.','Usually unavailable overseas; international shipping varies.','The local shop has the freshest stock and the widest Hong Kong-themed scent range.','The Wax Can shops and selected Central Market retailers.','No; buy before going to the airport.','Official The Wax Can online store; shipping destinations vary.',4.7,286,'https://thewaxcan.com/zh-cn/products/egg-tart-scented-candle')
+) AS v(name,chinese_name,price,price_amount,category,image_url,tag,note,description,why_buy,typical_overseas_price,savings,best_shops,airport,online,rating,review_count,source_url)
+JOIN countries c ON c.slug='hong-kong';
+
+INSERT INTO product_photos (product_id,image_url,alt_text,position)
+SELECT p.id,p.image_url,p.name,1 FROM products p WHERE p.country_id=(SELECT id FROM countries WHERE slug='hong-kong');
+
+INSERT INTO product_reviews (product_id,reviewer_name,rating,body,created_at)
+SELECT p.id,'Mei L.',p.rating,'A thoughtful Hong Kong gift with local character; it was easy to carry home.',DATE '2026-07-21'
+FROM products p WHERE p.country_id=(SELECT id FROM countries WHERE slug='hong-kong');
+
+INSERT INTO exchange_rates (currency_code,rate_per_eur,as_of_date,source_name,source_url)
+VALUES ('HKD',9.200000,DATE '2026-07-21','Indicative EUR/HKD reference rate','https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html');
