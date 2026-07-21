@@ -17,7 +17,7 @@ The repository is prepared for a zero-cost starter deployment using GitHub Pages
 1. Create a free Neon project and copy its pooled `DATABASE_URL` connection string.
 2. In Render, choose **New > Blueprint**, select this GitHub repository, and create the `souvenir-compass-api` service from `render.yaml`. Set `DATABASE_URL` to the Neon value and `CORS_ORIGIN` to `https://02zyan02.github.io`. The build runs the tracked database migrations and seeds automatically.
 3. Copy the Render service URL, such as `https://souvenir-compass-api.onrender.com`.
-4. In GitHub repository **Settings > Secrets and variables > Actions > Variables**, add `API_URL` with that URL. Then in **Settings > Pages**, choose **GitHub Actions** as the source. Push to `main` (or run the “Deploy frontend to GitHub Pages” workflow) to publish the frontend at `https://02zyan02.github.io/souvenir-compass/`.
+4. In GitHub repository **Settings > Secrets and variables > Actions > Variables**, add `API_URL` with that URL. Then in **Settings > Pages**, choose **GitHub Actions** as the source. This is a one-time owner setting required before the workflow can publish. Push to `main` (or run the “Deploy frontend to GitHub Pages” workflow) to publish the frontend at `https://02zyan02.github.io/souvenir-compass/`.
 
 `API_URL`, `DATABASE_URL`, and `CORS_ORIGIN` are intentionally not committed. If the database schema changes, Render applies each new numbered SQL migration once using `npm run db:migrate`.
 
