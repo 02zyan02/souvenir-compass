@@ -1,0 +1,56 @@
+{
+  "customsInformation": [
+    {
+      "country": "Malaysia",
+      "chineseCountryName": "马来西亚",
+      "flag": "🇲🇾",
+      "alcoholLimit": "Up to 1 litre total of wine, spirits, beer or malt liquor.",
+      "tobaccoLimit": "Up to 225 g of tobacco, or the equivalent of 200 cigarettes.",
+      "foodRestrictions": "Food preparations with a total value of up to RM150. Other food may be subject to separate health, veterinary or agricultural controls.",
+      "additionalNote": "These traveller exemptions do not override prohibited or restricted-import rules. Check current permits and declarations before travelling.",
+      "eligibilityNote": "Traveller exemptions have eligibility conditions, including trip-duration requirements. Confirm your circumstances in the official guide.",
+      "lastReviewed": "2026-07-21",
+      "sourceName": "Royal Malaysian Customs Department — Traveller's Guide",
+      "sourceUrl": "https://www.customs.gov.my/en/individu/pengembara/travelers-guide?highlight=WyJwb3J0Il0%3D"
+    },
+    {
+      "country": "Vietnam",
+      "chineseCountryName": "越南",
+      "flag": "🇻🇳",
+      "alcoholLimit": "Choose one: 1.5 L of liquor at 20% ABV or above, 2 L below 20% ABV, or 3 L of beer/other alcoholic drinks.",
+      "tobaccoLimit": "Choose one: 200 cigarettes, 250 g of shredded tobacco, or 20 cigars.",
+      "foodRestrictions": "No separate general food allowance is listed for passenger luggage. Animal products and other controlled food may require inspection or approval; check before bringing them in.",
+      "additionalNote": "Other non-prohibited and non-conditional goods are duty-free up to a total customs value of VND 10,000,000.",
+      "eligibilityNote": "The passenger allowance does not apply to travellers under 18 for alcohol and tobacco.",
+      "lastReviewed": "2026-07-21",
+      "sourceName": "Vietnam Trade Portal — passenger luggage allowances",
+      "sourceUrl": "https://www.vietnamtradeportal.gov.vn/index.php?id=941&r=site%2Fdisplay"
+    },
+    {
+      "country": "Singapore",
+      "chineseCountryName": "新加坡",
+      "flag": "🇸🇬",
+      "alcoholLimit": "Eligible travellers may choose one duty-free option: 1 L spirits + 1 L wine, 1 L spirits + 1 L beer, 1 L wine + 1 L beer, 2 L wine, or 2 L beer.",
+      "tobaccoLimit": "No duty-free concession or GST relief. All tobacco is subject to duty and GST, and it must meet Singapore's standardised-packaging requirement.",
+      "foodRestrictions": "For most processed foods, combined quantity is up to 5 kg or 5 L and total value up to S$100 per traveller. Product and source-country rules vary.",
+      "additionalNote": "Liquor concession requires travellers to be at least 18, away for at least 48 hours, and not arriving from Malaysia. Newly bought food and souvenirs may qualify for GST relief separately.",
+      "eligibilityNote": "Always check Singapore Food Agency's food list before purchasing: permitted products and source countries can change.",
+      "lastReviewed": "2026-07-21",
+      "sourceName": "Singapore Customs — Duty-Free Concession and GST Import Relief",
+      "sourceUrl": "https://www.customs.gov.sg/at-customs/arriving-in-singapore/duty-free-concession-gst-relief/"
+    },
+    {
+      "country": "Thailand",
+      "chineseCountryName": "泰国",
+      "flag": "🇹🇭",
+      "alcoholLimit": "Up to 1 litre of alcoholic beverage.",
+      "tobaccoLimit": "Up to 200 cigarettes, 250 g of tobacco, or 250 g combined across tobacco products.",
+      "foodRestrictions": "Food, medicines, cosmetics and supplements are restricted goods and may require approval from the relevant authority, including Thailand's FDA. Check the product before travel.",
+      "additionalNote": "Personal belongings in reasonable quantity may be duty-free up to THB 20,000, but this exemption excludes prohibited, restricted and food goods.",
+      "eligibilityNote": "Declare goods requiring permits and any quantities above the allowance at the Red Channel.",
+      "lastReviewed": "2026-07-21",
+      "sourceName": "Thai Customs — Guidelines for Airport Passengers",
+      "sourceUrl": "https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_160503_03_160905_01&lang=en&left_menu=menu_individual_submenu_01_160421_01%E0%A4%AA%E0%A4%B0"
+    }
+  ]
+}
