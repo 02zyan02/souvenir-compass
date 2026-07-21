@@ -8,6 +8,16 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+.env
+.env.*
+!.env.example
+coverage
+.nyc_output
+.vite
+.cache
+*.tsbuildinfo
+postgres_data
+pgdata
 dist
 dist-ssr
 *.local
