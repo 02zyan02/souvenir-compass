@@ -7,6 +7,7 @@
     "dev": "concurrently \"vite\" \"npm:api\"",
     "api": "node server/index.js",
     "build": "tsc && vite build",
+    "db:migrate": "node scripts/migrate.mjs",
     "preview": "vite preview",
     "start": "node server/index.js"
   },

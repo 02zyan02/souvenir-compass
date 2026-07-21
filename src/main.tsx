@@ -126,7 +126,8 @@ function App() {
   const zh = language === "zh";
 
   useEffect(() => {
-    fetch("/api/catalog")
+    const apiBaseUrl = (import.meta.env.VITE_API_URL ?? "").replace(/\/$/, "");
+    fetch(`${apiBaseUrl}/api/catalog`)
       .then((r) => (r.ok ? r.json() : Promise.reject()))
       .then((data: Catalog) => {
         setCatalog(data);

@@ -14,6 +14,25 @@ const travelSpots = readdirSync(path.join(root, 'data'))
   .filter(file => /^travel-spots-[a-z-]+\.json$/.test(file))
   .flatMap(file => JSON.parse(readFileSync(path.join(root, 'data', file), 'utf8')).spots)
 
+app.use('/api', (request, response, next) => {
+  const origin = request.headers.origin
+  const allowedOrigins = (process.env.CORS_ORIGIN ?? '')
+    .split(',')
+    .map(value => value.trim())
+    .filter(Boolean)
+
+  if (origin && (allowedOrigins.length === 0 || allowedOrigins.includes(origin))) {
+    response.setHeader('Access-Control-Allow-Origin', origin)
+    response.setHeader('Vary', 'Origin')
+  }
+  response.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS')
+  response.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+  if (request.method === 'OPTIONS') return response.sendStatus(204)
+  next()
+})
+
+app.get('/api/health', (_request, response) => response.json({ status: 'ok' }))
+
 app.get('/api/catalog', async (_request, response, next) => {
   try {
     const [countries, products, checklist, photos, reviews, exchangeRates] = await Promise.all([
