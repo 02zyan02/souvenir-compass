@@ -1,0 +1,61 @@
+ALTER TABLE products ADD COLUMN chinese_name TEXT;
+
+UPDATE products AS p
+SET chinese_name = v.chinese_name,
+    image_url = v.image_url
+FROM (VALUES
+  ('Brunei','Songkok cap','宋谷帽','https://upload.wikimedia.org/wikipedia/commons/8/8d/Zainuddin_Labay_El_Yunusy_pd.jpg'),
+  ('Brunei','Ambuyat seasoning set','安布雅特调味套装','https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg/960px-Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg'),
+  ('Brunei','Kuih cincin gift tin','环形传统饼礼盒','https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kuih_cincin.JPG/960px-Kuih_cincin.JPG'),
+  ('Brunei','Kain tenunan scarf','文莱织布围巾','https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg'),
+  ('Brunei','Rattan basketry','藤编篮具','https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rattan_baskets_-_%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A7%87%E0%A6%B0_%E0%A6%9D%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BF_-_DSC00588.jpg/960px-Rattan_baskets_-_%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A7%87%E0%A6%B0_%E0%A6%9D%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BF_-_DSC00588.jpg'),
+  ('Cambodia','Recycled-silk pouch','再生丝绸小袋','https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Man_with_Krama.jpg/960px-Man_with_Krama.jpg'),
+  ('Cambodia','Palm sugar sweets','棕榈糖甜点','https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF_%E0%AE%AE%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE%E0%AE%AF%E0%AF%8D%28Jaggery_sweets%29.jpg/960px-%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE%E0%AE%AF%E0%AF%8D%28Jaggery_sweets%29.jpg'),
+  ('Cambodia','Handmade ceramics','手工陶瓷','https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Potter_making_a_bowl_at_Khmer_ceramics_Centre.JPG/960px-Potter_making_a_bowl_at_Khmer_ceramics_Centre.JPG'),
+  ('Cambodia','Kampot pepper','贡布胡椒','https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kampot_peppercorns_in_a_mango_wooden_bowl.jpg/960px-Kampot_peppercorns_in_a_mango_wooden_bowl.jpg'),
+  ('Cambodia','Krama scarf','格罗玛围巾','https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Man_with_Krama.jpg/960px-Man_with_Krama.jpg'),
+  ('Indonesia','Natural body oil','天然身体护理油','https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85'),
+  ('Indonesia','Sambal paste','参巴辣椒酱','https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SAMBAL_BAWANG.jpg/960px-SAMBAL_BAWANG.jpg'),
+  ('Indonesia','Silver jewellery','银饰','https://upload.wikimedia.org/wikipedia/commons/e/ef/COLLECTIE_TROPENMUSEUM_Zilveren_ring_met_rose_siersteen_TMnr_3934-51.jpg'),
+  ('Indonesia','Kopi Bali beans','巴厘咖啡豆','https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bali_Coffee_anyone%3F_Hand_pounded_and_toasted_to_perfection._%282690581866%29.jpg/960px-Bali_Coffee_anyone%3F_Hand_pounded_and_toasted_to_perfection._%282690581866%29.jpg'),
+  ('Indonesia','Batik textile','蜡染布料','https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maestro_Batik_Tulis_di_Imogiri.jpg/960px-Maestro_Batik_Tulis_di_Imogiri.jpg'),
+  ('Laos','Lao tea leaves','老挝茶叶','https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?auto=format&fit=crop&w=900&q=85'),
+  ('Laos','Sticky-rice basket','糯米饭竹篮','https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85'),
+  ('Laos','Hmong embroidery pouch','苗族刺绣小袋','https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85'),
+  ('Laos','Lao coffee','老挝咖啡','https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg'),
+  ('Laos','Saa-paper notebook','桑皮纸笔记本','https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85'),
+  ('Malaysia','Songket pouch','宋吉锦小袋','https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg'),
+  ('Malaysia','Royal Selangor pewter cup','雪兰莪皇家锡杯','https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=900&q=85'),
+  ('Malaysia','Batik scarf','马来西亚蜡染围巾','https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maestro_Batik_Tulis_di_Imogiri.jpg/960px-Maestro_Batik_Tulis_di_Imogiri.jpg'),
+  ('Malaysia','Beryl’s chocolate','倍乐思巧克力','https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Beryl%E2%80%99s_Chocolate_Story%2C_Kwai_Chai_Hong_street.jpg/960px-Beryl%E2%80%99s_Chocolate_Story%2C_Kwai_Chai_Hong_street.jpg'),
+  ('Malaysia','White coffee gift pack','白咖啡礼盒','https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OldTown_White_Coffee_Outlet.jpg/960px-OldTown_White_Coffee_Outlet.jpg'),
+  ('Myanmar','Shan paper fan','掸邦纸扇','https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=85'),
+  ('Myanmar','Thanaka powder','特纳卡粉','https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Girl_wearing_Thanaka_paste_in_Yangon%2C_Myanmar.jpg/960px-Girl_wearing_Thanaka_paste_in_Yangon%2C_Myanmar.jpg'),
+  ('Myanmar','Lahpet tea-leaf mix','腌茶叶拌料','https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lahpet_for_sale.jpg/960px-Lahpet_for_sale.jpg'),
+  ('Myanmar','Longyi textile','笼基布料','https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arakanese_longyi.png/960px-Arakanese_longyi.png'),
+  ('Myanmar','Lacquerware box','缅甸漆器盒','https://upload.wikimedia.org/wikipedia/commons/4/4d/Myanmar_Lacquerware.jpg'),
+  ('Philippines','Coconut soap','椰子皂','https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pet_shampoo_virgin_coconut_oil_Gliricidia_sepium4.jpg/960px-Pet_shampoo_virgin_coconut_oil_Gliricidia_sepium4.jpg'),
+  ('Philippines','Calamansi concentrate','卡拉曼西浓缩汁','https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Calamansi_juice_%28Philippines%29.jpg/960px-Calamansi_juice_%28Philippines%29.jpg'),
+  ('Philippines','Barong-inspired scarf','巴隆风格围巾','https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Barong_Tagalog.png/960px-Barong_Tagalog.png'),
+  ('Philippines','Capiz shell coaster','卡皮兹贝壳杯垫','https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Placuna_placenta_%28MNHN-IM-2009-2413%29.jpeg/960px-Placuna_placenta_%28MNHN-IM-2009-2413%29.jpeg'),
+  ('Philippines','Dried mango','芒果干','https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cebu_Best_Dried_Mango.jpg/960px-Cebu_Best_Dried_Mango.jpg'),
+  ('Singapore','Local design tote','本地设计托特包','https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85'),
+  ('Singapore','Laksa paste','叻沙酱','https://upload.wikimedia.org/wikipedia/commons/2/28/Stir_Fried_Squid_with_Laksa_Paste.jpg'),
+  ('Singapore','Merlion enamel pin','鱼尾狮珐琅徽章','https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Merli%C3%B3n%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_45-47_HDR.jpg/960px-Merli%C3%B3n%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_45-47_HDR.jpg'),
+  ('Singapore','TWG tea tin','TWG 茶罐','https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TWG_Tea_shop_entrance_in_Singapore.jpg/960px-TWG_Tea_shop_entrance_in_Singapore.jpg'),
+  ('Singapore','Kaya spread','咖椰酱','https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Good_morning_Singapore_-_Ya_Kun_Kaya_Toast%2C_January_2025.jpg/960px-Good_morning_Singapore_-_Ya_Kun_Kaya_Toast%2C_January_2025.jpg'),
+  ('Thailand','Spa oil set','泰式水疗精油套装','https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85'),
+  ('Thailand','Thai tea mix','泰式奶茶冲泡包','https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cha_yen.JPG/960px-Cha_yen.JPG'),
+  ('Thailand','Thai herbal balm','泰式草本膏','https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=85'),
+  ('Thailand','Thai silk scarf','泰丝围巾','https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg'),
+  ('Thailand','Dried mango','芒果干','https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cebu_Best_Dried_Mango.jpg/960px-Cebu_Best_Dried_Mango.jpg'),
+  ('Vietnam','Cashew gift bag','腰果礼袋','https://images.unsplash.com/photo-1508747703725-719777637510?auto=format&fit=crop&w=900&q=85'),
+  ('Vietnam','Lacquer painting','越南漆画','https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Vietnamese_Landscape_1955%2C_lacquer_painting.webp/960px-Vietnamese_Landscape_1955%2C_lacquer_painting.webp.png'),
+  ('Vietnam','Coconut candy','椰子糖','https://upload.wikimedia.org/wikipedia/commons/6/6e/Coconut_candy_making%2C_Vietnam.jpg'),
+  ('Vietnam','Ao dai scarf','奥黛围巾','https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%C3%81o_d%C3%A0i_hoa_ph%C6%B0%E1%BB%A3ng_-_Ph%C3%A1t_Tr%C6%B0%C6%A1ng_-_51231007393_%28extend_cropped%29.jpg/960px-%C3%81o_d%C3%A0i_hoa_ph%C6%B0%E1%BB%A3ng_-_Ph%C3%A1t_Tr%C6%B0%C6%A1ng_-_51231007393_%28extend_cropped%29.jpg'),
+  ('Vietnam','Vietnamese coffee + phin','越南咖啡与滴漏壶','https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg')
+) AS v(country, name, chinese_name, image_url)
+JOIN countries AS c ON c.name = v.country
+WHERE p.country_id = c.id AND p.name = v.name;
+
+ALTER TABLE products ALTER COLUMN chinese_name SET NOT NULL;
