@@ -13,9 +13,7 @@ const countryData = JSON.parse(readFileSync(path.join(root, 'data', 'country.jso
 const travelSpotData = JSON.parse(readFileSync(path.join(root, 'data', 'travel-spots.json'), 'utf8'))
 const malaysiaTravelSpots = JSON.parse(readFileSync(path.join(root, 'data', 'travel-spots-malaysia.json'), 'utf8'))
 const vietnamTravelSpots = JSON.parse(readFileSync(path.join(root, 'data', 'travel-spots-vietnam.json'), 'utf8'))
-const countrySpotFiles = [malaysiaTravelSpots, vietnamTravelSpots]
-const travelSpots = countrySpotFiles.flatMap(({ country, spotIds }) => spotIds.map(id => travelSpotData.spots.find(spot => spot.id === id && spot.country === country))).filter(Boolean)
-  .concat(travelSpotData.spots.filter(spot => !countrySpotFiles.some(({ spotIds }) => spotIds.includes(spot.id))))
+const travelSpots = [...travelSpotData.spots, ...malaysiaTravelSpots.spots, ...vietnamTravelSpots.spots]
 
 app.get('/api/catalog', async (_request, response, next) => {
   try {
