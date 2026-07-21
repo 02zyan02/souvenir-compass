@@ -1,0 +1,23 @@
+{
+  "country": "Myanmar",
+  "spots": [
+    {
+      "id": "bagan",
+      "country": "Myanmar",
+      "name": "Bagan Archaeological Zone",
+      "location": "Mandalay Region, Myanmar",
+      "category": "Historic Landscape",
+      "shortDescription": "An immense plain scattered with thousands of Buddhist temples and pagodas.",
+      "whyVisit": "Sunrise temple views, ancient architecture and e-bike exploration.",
+      "bestTime": "November–February",
+      "openingHours": "Daylight hours; access conditions can vary",
+      "entranceFee": "Archaeological-zone fee may apply",
+      "visitDuration": "1–2 days",
+      "topActivities": "E-bike tour, sunrise viewing, temple exploration",
+      "nearbyAttractions": "Mount Popa, Nyaung-U Market",
+      "travelTips": "Check current local travel guidance before making plans.",
+      "photo": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=85",
+      "mapQuery": "Bagan Archaeological Zone, Myanmar"
+    }
+  ]
+}

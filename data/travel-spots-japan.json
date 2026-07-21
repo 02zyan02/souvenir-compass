@@ -1,0 +1,23 @@
+{
+  "country": "Japan",
+  "spots": [
+    {
+      "id": "mount-fuji",
+      "country": "Japan",
+      "name": "Mount Fuji",
+      "location": "Honshu, Japan",
+      "category": "Natural Wonder",
+      "shortDescription": "Japan’s iconic volcanic peak, admired for its near-perfect cone and seasonal landscapes.",
+      "whyVisit": "Classic views, hiking, lakeside scenery and Japanese cultural symbolism.",
+      "bestTime": "October–February for clear views; July–September for climbing",
+      "openingHours": "Outdoor destination; trails are seasonal",
+      "entranceFee": "Viewing areas vary; climbing rules and fees vary",
+      "visitDuration": "Full day",
+      "topActivities": "Lake Kawaguchi views, hiking, photography",
+      "nearbyAttractions": "Chureito Pagoda, Oshino Hakkai",
+      "travelTips": "Check visibility forecasts and trail status before travelling.",
+      "photo": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=85",
+      "mapQuery": "Mount Fuji, Japan"
+    }
+  ]
+}

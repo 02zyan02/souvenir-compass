@@ -3,17 +3,16 @@ import express from 'express'
 import { Pool } from 'pg'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { readFileSync } from 'node:fs'
+import { readFileSync, readdirSync } from 'node:fs'
 
 const app = express()
 const pool = new Pool({ connectionString: process.env.DATABASE_URL })
 const port = Number(process.env.PORT || 3001)
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const countryData = JSON.parse(readFileSync(path.join(root, 'data', 'country.json'), 'utf8'))
-const travelSpotData = JSON.parse(readFileSync(path.join(root, 'data', 'travel-spots.json'), 'utf8'))
-const malaysiaTravelSpots = JSON.parse(readFileSync(path.join(root, 'data', 'travel-spots-malaysia.json'), 'utf8'))
-const vietnamTravelSpots = JSON.parse(readFileSync(path.join(root, 'data', 'travel-spots-vietnam.json'), 'utf8'))
-const travelSpots = [...travelSpotData.spots, ...malaysiaTravelSpots.spots, ...vietnamTravelSpots.spots]
+const travelSpots = readdirSync(path.join(root, 'data'))
+  .filter(file => /^travel-spots-[a-z-]+\.json$/.test(file))
+  .flatMap(file => JSON.parse(readFileSync(path.join(root, 'data', file), 'utf8')).spots)
 
 app.get('/api/catalog', async (_request, response, next) => {
   try {

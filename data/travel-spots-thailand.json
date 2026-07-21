@@ -1,0 +1,23 @@
+{
+  "country": "Thailand",
+  "spots": [
+    {
+      "id": "grand-palace",
+      "country": "Thailand",
+      "name": "The Grand Palace",
+      "location": "Phra Nakhon, Bangkok, Thailand",
+      "category": "Historic Landmark",
+      "shortDescription": "Bangkok’s dazzling former royal complex, home to the sacred Emerald Buddha.",
+      "whyVisit": "Thai architecture, gilded temples and royal history.",
+      "bestTime": "Early morning, November–February",
+      "openingHours": "Typically daytime; confirm before visiting",
+      "entranceFee": "Ticketed; check current official price",
+      "visitDuration": "2–3 hours",
+      "topActivities": "Temple photography, Wat Phra Kaew, royal architecture",
+      "nearbyAttractions": "Wat Pho, Wat Arun",
+      "travelTips": "Dress modestly, arrive early and ignore unofficial ticket touts.",
+      "photo": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?auto=format&fit=crop&w=1200&q=85",
+      "mapQuery": "The Grand Palace, Bangkok, Thailand"
+    }
+  ]
+}

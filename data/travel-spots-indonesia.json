@@ -1,0 +1,23 @@
+{
+  "country": "Indonesia",
+  "spots": [
+    {
+      "id": "borobudur",
+      "country": "Indonesia",
+      "name": "Borobudur Temple",
+      "location": "Central Java, Indonesia",
+      "category": "Historic Landmark",
+      "shortDescription": "A vast ninth-century Buddhist monument of stone terraces and bell-shaped stupas.",
+      "whyVisit": "Sunrise atmosphere, Buddhist art and views over volcanic Central Java.",
+      "bestTime": "May–September",
+      "openingHours": "Morning to afternoon; sunrise access varies",
+      "entranceFee": "Ticketed; check current official price",
+      "visitDuration": "2–4 hours",
+      "topActivities": "Temple walk, sunrise, relief viewing",
+      "nearbyAttractions": "Prambanan, Yogyakarta",
+      "travelTips": "Wear comfortable shoes and book sunrise access early if offered.",
+      "photo": "https://images.unsplash.com/photo-1584810359583-96fc3448beaa?auto=format&fit=crop&w=1200&q=85",
+      "mapQuery": "Borobudur Temple, Indonesia"
+    }
+  ]
+}
