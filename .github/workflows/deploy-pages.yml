@@ -24,6 +24,10 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Verify public API URL
+        run: test -n "$VITE_API_URL"
+        env:
+          VITE_API_URL: ${{ vars.API_URL }}
       - run: npm run build
         env:
           VITE_API_URL: ${{ vars.API_URL }}
