@@ -1,0 +1,949 @@
+{
+  "country": {
+    "id": 9,
+    "slug": "thailand",
+    "name": "Thailand",
+    "chinese_name": "泰国",
+    "flag": "🇹🇭",
+    "city": "Bangkok",
+    "buy": "Silk, wellness goods & snacks",
+    "chinese_buy": "丝绸、养生用品与零食",
+    "tip": "OTOP products are a strong place to start for regional specialities.",
+    "chinese_tip": "寻找地区特色商品时，OTOP 是很好的起点。",
+    "shopping_location": "Big C, 7-Eleven, and craft markets",
+    "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-bangkok.html",
+    "find_count": 20
+  },
+  "products": [
+    {
+      "id": 103,
+      "country_id": 9,
+      "name": "Baan Mowaan herbal balm jar",
+      "price": "from ฿180",
+      "category": "Wellness",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2lECLZ-KLsgh2FRB3go_ideihdTKeL52kzcCL_xq0g&s=10",
+      "tag": "Old Bangkok remedy",
+      "note": "Check destination medicine rules before travel.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "万安草本药膏",
+      "description": "A traditional herbal balm from historic Bangkok Thai-medicine shop Baan Mowaan.",
+      "why_buy": "It is a more heritage-led alternative to mass-market balms.",
+      "local_price": "from ฿180",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Baan Mowaan, Bamrung Mueang Road.",
+      "airport_availability": "No; buy in Bangkok.",
+      "online_availability": "Limited direct availability. ",
+      "rating": "4.6",
+      "review_count": 288,
+      "price_amount": "180.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 103,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2lECLZ-KLsgh2FRB3go_ideihdTKeL52kzcCL_xq0g&s=10",
+          "alt_text": "Baan Mowaan herbal balm jar",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 103,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "country_id": 9,
+      "name": "Bangkok Balm plai muscle gel",
+      "price": "from ฿400",
+      "category": "Wellness",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEASPVrGSRfIbtGLrdK7nwkGb9z03RO25TARKLXJ9oQA&s=10",
+      "tag": "Modern herbal care",
+      "note": "Pack liquids in checked luggage.",
+      "reference_url": "https://www.bangkokbalm.com/",
+      "chinese_name": "曼谷草本普莱肌肉凝胶",
+      "description": "Thai FDA-registered plai herbal muscle gel from Bangkok Balm.",
+      "why_buy": "It gives travellers a modern, Thailand-made wellness gift.",
+      "local_price": "from ฿400",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Thai pharmacies and authorised health stores.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available from Bangkok Balm partners. ",
+      "rating": "4.6",
+      "review_count": 247,
+      "price_amount": "400.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 104,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEASPVrGSRfIbtGLrdK7nwkGb9z03RO25TARKLXJ9oQA&s=10",
+          "alt_text": "Bangkok Balm plai muscle gel",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 104,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "country_id": 9,
+      "name": "Benjarong hand-painted tea cup",
+      "price": "from ฿650",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrOLfWen_oINOwQFsnE43bQgx9jcHrcj96EtR7ZIsvQ&s=10",
+      "tag": "Thai ceramic art",
+      "note": "Request protective wrapping and carry it onboard.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "五彩泰式手绘茶杯",
+      "description": "A hand-painted Benjarong-style ceramic tea cup with traditional Thai colourwork.",
+      "why_buy": "It is a decorative craft keepsake with more depth than standard market souvenirs.",
+      "local_price": "from ฿650",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Benjarong workshops, ICONSIAM craft stores and OTOP shops.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available from craft retailers. ",
+      "rating": "4.7",
+      "review_count": 381,
+      "price_amount": "650.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 106,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrOLfWen_oINOwQFsnE43bQgx9jcHrcj96EtR7ZIsvQ&s=10",
+          "alt_text": "Benjarong hand-painted tea cup",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 106,
+          "reviewer_name": "Nok S.",
+          "rating": "4.7",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "country_id": 9,
+      "name": "Bento squid snack multipack",
+      "price": "from ฿65",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4m8SqTSoJRMYyxhEuSQ9jSzymXvYSpfdmnuB1SCVJ9g&s=10",
+      "tag": "Spicy snack",
+      "note": "Choose mild or hot flavours before gifting.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "本托鱿鱼零食多包",
+      "description": "Sweet-spicy dried squid snack packs from Thai brand Bento.",
+      "why_buy": "They are bold, inexpensive and unmistakably Thai convenience-store finds.",
+      "local_price": "from ฿65",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "7-Eleven, Big C, Lotus’s and supermarkets.",
+      "airport_availability": "Often at airport snack shops.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.5",
+      "review_count": 521,
+      "price_amount": "65.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 102,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4m8SqTSoJRMYyxhEuSQ9jSzymXvYSpfdmnuB1SCVJ9g&s=10",
+          "alt_text": "Bento squid snack multipack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 102,
+          "reviewer_name": "Nok S.",
+          "rating": "4.5",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "country_id": 9,
+      "name": "Cha Tra Mue Thai tea mix",
+      "price": "from ฿85",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cha_yen.JPG/960px-Cha_yen.JPG",
+      "tag": "Thai tea icon",
+      "note": "Keep the packet dry and sealed.",
+      "reference_url": "Yes, at selected airport stores.",
+      "chinese_name": "手标泰式茶粉",
+      "description": "The vivid orange Thai-tea mix from Thailand’s iconic Cha Tra Mue brand.",
+      "why_buy": "It is the easiest way to recreate Thai milk tea at home.",
+      "local_price": "from ฿85",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Cha Tra Mue shops, Big C, Lotus’s and supermarkets.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.9",
+      "review_count": 831,
+      "price_amount": "85.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 43,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cha_yen.JPG/960px-Cha_yen.JPG",
+          "alt_text": "Cha Tra Mue Thai tea mix",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 43,
+          "reviewer_name": "Nok S.",
+          "rating": "4.9",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 43,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 43,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "country_id": 9,
+      "name": "Chao Sua rice cracker gift pack",
+      "price": "from ฿120",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfmgrohTtRu_iPk3nTEwECse5pt4afRpYBnxjzKvxeQ&s=10",
+      "tag": "Thai crunch",
+      "note": "Keep boxes level in luggage.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "乔苏泰式米饼礼盒",
+      "description": "A crispy rice-cracker gift pack from Thai snack brand Chao Sua.",
+      "why_buy": "It offers a savoury local alternative to sweet Thai snacks.",
+      "local_price": "from ฿120",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Big C, Lotus’s, Siam Takashimaya and supermarkets.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available through Thai marketplaces. ",
+      "rating": "4.6",
+      "review_count": 592,
+      "price_amount": "120.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 99,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfmgrohTtRu_iPk3nTEwECse5pt4afRpYBnxjzKvxeQ&s=10",
+          "alt_text": "Chao Sua rice cracker gift pack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 99,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "country_id": 9,
+      "name": "Coconut roll gift tin",
+      "price": "from ฿150",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBSTP25B2wBI7Vx0UlxteXgzV4Hz4lKqByfV9NrAV6tQ&s=10",
+      "tag": "Crisp sweet gift",
+      "note": "Keep the tin on top of luggage.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "泰式椰子蛋卷礼罐",
+      "description": "Crisp rolled wafers with coconut flavour in a decorative Thai gift tin.",
+      "why_buy": "They are lightweight, affordable and easy to serve with tea.",
+      "local_price": "from ฿150",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Big C, Lotus’s, markets and Thai snack shops.",
+      "airport_availability": "Often at airports.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.6",
+      "review_count": 612,
+      "price_amount": "150.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 110,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBSTP25B2wBI7Vx0UlxteXgzV4Hz4lKqByfV9NrAV6tQ&s=10",
+          "alt_text": "Coconut roll gift tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 110,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "country_id": 9,
+      "name": "Elephant pants",
+      "price": "from ฿180",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TjRa4ymux4TbRtU28bTUBHeCPaDDCVrXjsKaUmXryg&s=10",
+      "tag": "Easy Thai gift",
+      "note": "Check stitching and fabric weight before buying.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "泰式大象裤",
+      "description": "Loose cotton trousers printed with classic Thai elephant motifs.",
+      "why_buy": "They are affordable, playful and widely recognised as a Thailand travel keepsake.",
+      "local_price": "from ฿180",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Chatuchak, MBK, markets and souvenir shops.",
+      "airport_availability": "Some availability at airports.",
+      "online_availability": "Available from Thai-marketplace sellers. ",
+      "rating": "4.5",
+      "review_count": 723,
+      "price_amount": "180.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 107,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TjRa4ymux4TbRtU28bTUBHeCPaDDCVrXjsKaUmXryg&s=10",
+          "alt_text": "Elephant pants",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 107,
+          "reviewer_name": "Nok S.",
+          "rating": "4.5",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "country_id": 9,
+      "name": "Hong Thai Formula 2 herbal inhaler",
+      "price": "from ฿45",
+      "category": "Beauty",
+      "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=85",
+      "tag": "Pocket Thai essential",
+      "note": "Keep a few sealed jars for easy gifting.",
+      "reference_url": "Often at airport pharmacies.",
+      "chinese_name": "鸿泰二号草本鼻通",
+      "description": "A compact herbal inhaler from popular Thai brand Hong Thai.",
+      "why_buy": "It is inexpensive, instantly recognisable and very easy to pack.",
+      "local_price": "from ฿45",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "7-Eleven, pharmacies, Big C and local markets.",
+      "airport_availability": "Sometimes available in departure-side gift or beauty shops; stock varies by terminal.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.6",
+      "review_count": 868,
+      "price_amount": "45.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 44,
+          "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Hong Thai Formula 2 herbal inhaler",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 44,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 44,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 44,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "country_id": 9,
+      "name": "Jim Thompson Thai silk scarf",
+      "price": "from ฿1,900",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg",
+      "tag": "Thai silk icon",
+      "note": "Ask for a protective sleeve and fold gently.",
+      "reference_url": "Yes, at selected airport boutiques.",
+      "chinese_name": "金汤普森泰丝围巾",
+      "description": "A finished silk scarf from Thailand’s internationally known Jim Thompson house.",
+      "why_buy": "It is wearable Thai craftsmanship with reliable quality and gift packaging.",
+      "local_price": "from ฿1,900",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Jim Thompson stores, ICONSIAM and Siam Paragon.",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 905,
+      "price_amount": "1900.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 45,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg",
+          "alt_text": "Jim Thompson Thai silk scarf",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 45,
+          "reviewer_name": "Nok S.",
+          "rating": "4.7",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 45,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 45,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "country_id": 9,
+      "name": "Koh-Kae coconut-coated peanuts",
+      "price": "from ฿45",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoSRSKO8SzdK3QKOIlwEKtFQ2wbPBhNlqLn1IYI_lZQ&s=10",
+      "tag": "Crunchy classic",
+      "note": "Choose resealable bags for freshness.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "大哥椰奶花生",
+      "description": "Coconut-coated peanuts from Thai snack leader Koh-Kae.",
+      "why_buy": "It is a familiar Thai convenience-store snack with mass gifting appeal.",
+      "local_price": "from ฿45",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "7-Eleven, Big C, Lotus’s and supermarkets.",
+      "airport_availability": "Common at airports.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.6",
+      "review_count": 756,
+      "price_amount": "45.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 97,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoSRSKO8SzdK3QKOIlwEKtFQ2wbPBhNlqLn1IYI_lZQ&s=10",
+          "alt_text": "Koh-Kae coconut-coated peanuts",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 97,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "country_id": 9,
+      "name": "MAMA creamy tom yum noodle multipack",
+      "price": "from ฿70",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaBqxqUHNirV4Z_QDPKnx723xj_Rwc9K_KnKaX53bLw&s",
+      "tag": "Thai pantry icon",
+      "note": "Keep packs dry and avoid crushing.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "妈妈冬阴功方便面多包装",
+      "description": "Thailand’s famous MAMA instant noodles in creamy tom yum flavour.",
+      "why_buy": "A low-cost, unmistakably Thai supermarket gift.",
+      "local_price": "from ฿70",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Big C, Lotus’s, 7-Eleven and supermarkets.",
+      "airport_availability": "Often at airport food shops.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.7",
+      "review_count": 1025,
+      "price_amount": "70.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 96,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaBqxqUHNirV4Z_QDPKnx723xj_Rwc9K_KnKaX53bLw&s",
+          "alt_text": "MAMA creamy tom yum noodle multipack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 96,
+          "reviewer_name": "Nok S.",
+          "rating": "4.7",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "country_id": 9,
+      "name": "Mae Ploy green curry paste",
+      "price": "from ฿45",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wtHUvVzPx9q9rcxBBVNmnw7guXdVzpEWGTAFn3d-SQ&s=10",
+      "tag": "Thai kitchen essential",
+      "note": "Seal jars carefully in checked luggage.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "美宝绿咖喱酱",
+      "description": "A concentrated green curry paste from trusted Thai pantry brand Mae Ploy.",
+      "why_buy": "It makes a convincing Thai curry at home with minimal suitcase space.",
+      "local_price": "from ฿45",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Big C, Lotus’s, markets and supermarkets.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.7",
+      "review_count": 684,
+      "price_amount": "45.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 100,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wtHUvVzPx9q9rcxBBVNmnw7guXdVzpEWGTAFn3d-SQ&s=10",
+          "alt_text": "Mae Ploy green curry paste",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 100,
+          "reviewer_name": "Nok S.",
+          "rating": "4.7",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "country_id": 9,
+      "name": "Mae Pranom dried mango pouch",
+      "price": "from ฿75",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cebu_Best_Dried_Mango.jpg/960px-Cebu_Best_Dried_Mango.jpg",
+      "tag": "Tropical snack",
+      "note": "Choose sealed pouches with a clear best-before date.",
+      "reference_url": "Often at airport snack shops.",
+      "chinese_name": "แม่ประนอม芒果干",
+      "description": "Sweet Thai dried mango in a shareable supermarket pouch.",
+      "why_buy": "It is light, tropical and easy to distribute to friends.",
+      "local_price": "from ฿75",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Big C, Lotus’s, 7-Eleven and supermarkets.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.8",
+      "review_count": 794,
+      "price_amount": "75.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 42,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cebu_Best_Dried_Mango.jpg/960px-Cebu_Best_Dried_Mango.jpg",
+          "alt_text": "Mae Pranom dried mango pouch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 42,
+          "reviewer_name": "Nok S.",
+          "rating": "4.8",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 42,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 42,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "country_id": 9,
+      "name": "OTOP woven tote bag",
+      "price": "from ฿350",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S9wSLSpZ2H9Ti4jZ7QjNtk5QkEVYXNL-qCR8Wv5OuQ&s",
+      "tag": "Community craft",
+      "note": "Choose sturdy handles and a lined interior.",
+      "reference_url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-enjoy-shopping-in-southern-isan",
+      "chinese_name": "OTOP 手工编织托特包",
+      "description": "A handwoven tote sourced from Thailand’s One Tambon One Product community-craft programme.",
+      "why_buy": "It supports regional makers while being genuinely useful after the holiday.",
+      "local_price": "from ฿350",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "OTOP shops, ICONSIAM and Chatuchak.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available through OTOP retailers. ",
+      "rating": "4.6",
+      "review_count": 338,
+      "price_amount": "350.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 108,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7S9wSLSpZ2H9Ti4jZ7QjNtk5QkEVYXNL-qCR8Wv5OuQ&s",
+          "alt_text": "OTOP woven tote bag",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 108,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "country_id": 9,
+      "name": "Panpuri Thai jasmine body-oil set",
+      "price": "from ฿890",
+      "category": "Beauty",
+      "image_url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+      "tag": "Spa luxury",
+      "note": "Pack liquids in checked baggage.",
+      "reference_url": "Selected airport availability.",
+      "chinese_name": "潘普瑞泰国茉莉身体油套装",
+      "description": "A Thai jasmine-scented spa gift set from Bangkok wellness brand Panpuri.",
+      "why_buy": "It captures Thailand’s spa culture in a polished present.",
+      "local_price": "from ฿890",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Panpuri boutiques, Central and ICONSIAM.",
+      "airport_availability": "Sometimes available in departure-side gift or beauty shops; stock varies by terminal.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 757,
+      "price_amount": "890.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 41,
+          "image_url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Panpuri Thai jasmine body-oil set",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 41,
+          "reviewer_name": "Nok S.",
+          "rating": "4.7",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 41,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 41,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "country_id": 9,
+      "name": "Tao Kae Noi grilled seaweed rolls",
+      "price": "from ฿55",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYL_109ZTCnjANW1vmaZ0Pml2QtCLp8tTowSUbUOw2mw&s=10",
+      "tag": "Seaweed snack",
+      "note": "Protect the tube from crushing.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "小老板烤海苔卷",
+      "description": "Crisp seaweed rolls from Thailand’s well-known Tao Kae Noi brand.",
+      "why_buy": "The portable tubes are a popular Thai snack gift for colleagues.",
+      "local_price": "from ฿55",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "7-Eleven, Big C, Lotus’s and supermarkets.",
+      "airport_availability": "Common at airport shops.",
+      "online_availability": "Available through Asian-grocery marketplaces. ",
+      "rating": "4.7",
+      "review_count": 849,
+      "price_amount": "55.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 98,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYL_109ZTCnjANW1vmaZ0Pml2QtCLp8tTowSUbUOw2mw&s=10",
+          "alt_text": "Tao Kae Noi grilled seaweed rolls",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 98,
+          "reviewer_name": "Nok S.",
+          "rating": "4.7",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "country_id": 9,
+      "name": "Thai Herb Stories aromatherapy oil",
+      "price": "from ฿590",
+      "category": "Wellness",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_I_ghBHsic4bQeRuUBGXNxTwZbeEU0xwyj7uudVh2Q&s",
+      "tag": "Natural Thai aroma",
+      "note": "Pack oils in checked baggage.",
+      "reference_url": "https://www.thailandtravel.or.jp/thai-herb-stories/",
+      "chinese_name": "泰草本故事芳香精油",
+      "description": "Natural-aroma oil made with Thai herbs from Thai Herb Stories.",
+      "why_buy": "It is a refined Thailand-born spa souvenir with a botanical identity.",
+      "local_price": "from ฿590",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Thai Herb Stories, Bangkok malls and spas.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available from brand channels. ",
+      "rating": "4.6",
+      "review_count": 223,
+      "price_amount": "590.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 105,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_I_ghBHsic4bQeRuUBGXNxTwZbeEU0xwyj7uudVh2Q&s",
+          "alt_text": "Thai Herb Stories aromatherapy oil",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 105,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "country_id": 9,
+      "name": "Thai carved wooden elephant",
+      "price": "from ฿300",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBitNmDw7kpABKN5gcryfF9cE7Op_5fk9UsLCje6v_fA&s=10",
+      "tag": "Thai symbol",
+      "note": "Choose a small, smooth-finished piece for packing.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "泰式木雕大象",
+      "description": "A hand-carved wooden elephant figurine from Thai artisan and market stalls.",
+      "why_buy": "The elephant is a classic Thai symbol and the small size makes it gift-friendly.",
+      "local_price": "from ฿300",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Chatuchak, MBK, Chiang Mai craft shops and markets.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available from Thai craft sellers. ",
+      "rating": "4.5",
+      "review_count": 534,
+      "price_amount": "300.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 109,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBitNmDw7kpABKN5gcryfF9cE7Op_5fk9UsLCje6v_fA&s=10",
+          "alt_text": "Thai carved wooden elephant",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 109,
+          "reviewer_name": "Nok S.",
+          "rating": "4.5",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "country_id": 9,
+      "name": "Thip Samai pad thai sauce",
+      "price": "from ฿110",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgi6W88M-B44-1ufj1n8oDdIOE__YVwKMm58D_Ik77Q&s=10",
+      "tag": "Bangkok classic",
+      "note": "Place sauce bottles in checked luggage.",
+      "reference_url": "https://www.royalcaribbean.com/inspire/what-to-buy-in-bangkok",
+      "chinese_name": "蒂普萨迈炒河粉酱",
+      "description": "A take-home sauce from Bangkok’s celebrated Thip Samai pad thai name.",
+      "why_buy": "It lets travellers bring a famous Bangkok dish home in a practical form.",
+      "local_price": "from ฿110",
+      "typical_overseas_price": "Usually less available or more expensive overseas.",
+      "savings": "Buy locally for broader choice and better value.",
+      "best_shops": "Thip Samai, gourmet grocers and food halls.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Selected marketplace availability. ",
+      "rating": "4.6",
+      "review_count": 463,
+      "price_amount": "110.00",
+      "currency_code": "THB",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "photos": [
+        {
+          "product_id": 101,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgi6W88M-B44-1ufj1n8oDdIOE__YVwKMm58D_Ik77Q&s=10",
+          "alt_text": "Thip Samai pad thai sauce",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 101,
+          "reviewer_name": "Nok S.",
+          "rating": "4.6",
+          "body": "A useful Thai brand pick with strong gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

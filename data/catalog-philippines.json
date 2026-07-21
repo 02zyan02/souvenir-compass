@@ -1,0 +1,269 @@
+{
+  "country": {
+    "id": 7,
+    "slug": "philippines",
+    "name": "Philippines",
+    "chinese_name": "菲律宾",
+    "flag": "🇵🇭",
+    "city": "Manila",
+    "buy": "Woven goods, mangoes & shell crafts",
+    "chinese_buy": "编织品、芒果与贝壳工艺",
+    "tip": "Protect fragile shell crafts in hand luggage, and ask how the material was sourced.",
+    "chinese_tip": "易碎贝壳工艺品建议随身携带，并询问材料来源。",
+    "shopping_location": "Department stores and local craft markets",
+    "reference_url": "https://www.trip.com/guide/",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 33,
+      "country_id": 7,
+      "name": "Barong-inspired scarf",
+      "price": "from ₱550",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Barong_Tagalog.png/960px-Barong_Tagalog.png",
+      "tag": "Dressy keepsake",
+      "note": "Choose a small accessory rather than a full garment.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "巴隆风格围巾",
+      "description": "Barong-inspired scarf is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from ₱550",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Department stores and local craft markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 461,
+      "price_amount": "550.00",
+      "currency_code": "PHP",
+      "country": "Philippines",
+      "country_slug": "philippines",
+      "photos": [
+        {
+          "product_id": 33,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Barong_Tagalog.png/960px-Barong_Tagalog.png",
+          "alt_text": "Barong-inspired scarf",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 33,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 33,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "country_id": 7,
+      "name": "Calamansi concentrate",
+      "price": "from ₱130",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Calamansi_juice_%28Philippines%29.jpg/960px-Calamansi_juice_%28Philippines%29.jpg",
+      "tag": "Citrus pantry",
+      "note": "Place liquid bottles in checked baggage.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "卡拉曼西浓缩汁",
+      "description": "Calamansi concentrate is a packable local pantry gift with flavours that are hard to find outside Philippines.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from ₱130",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Department stores and local craft markets",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.6",
+      "review_count": 424,
+      "price_amount": "130.00",
+      "currency_code": "PHP",
+      "country": "Philippines",
+      "country_slug": "philippines",
+      "photos": [
+        {
+          "product_id": 32,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Calamansi_juice_%28Philippines%29.jpg/960px-Calamansi_juice_%28Philippines%29.jpg",
+          "alt_text": "Calamansi concentrate",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 32,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 32,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "country_id": 7,
+      "name": "Capiz shell coaster",
+      "price": "from ₱220",
+      "category": "Home",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Placuna_placenta_%28MNHN-IM-2009-2413%29.jpeg/960px-Placuna_placenta_%28MNHN-IM-2009-2413%29.jpeg",
+      "tag": "Coastal craft",
+      "note": "Protect fragile shell crafts in hand luggage.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "卡皮兹贝壳杯垫",
+      "description": "Capiz shell coaster is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from ₱220",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Department stores and local craft markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 498,
+      "price_amount": "220.00",
+      "currency_code": "PHP",
+      "country": "Philippines",
+      "country_slug": "philippines",
+      "photos": [
+        {
+          "product_id": 34,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Placuna_placenta_%28MNHN-IM-2009-2413%29.jpeg/960px-Placuna_placenta_%28MNHN-IM-2009-2413%29.jpeg",
+          "alt_text": "Capiz shell coaster",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 34,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 34,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "country_id": 7,
+      "name": "Coconut soap",
+      "price": "from ₱100",
+      "category": "Beauty",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pet_shampoo_virgin_coconut_oil_Gliricidia_sepium4.jpg/960px-Pet_shampoo_virgin_coconut_oil_Gliricidia_sepium4.jpg",
+      "tag": "Tropical staple",
+      "note": "Solid soap avoids carry-on liquid restrictions.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "椰子皂",
+      "description": "Coconut soap is a locally inspired self-care pick that travels easily in a wash bag.",
+      "why_buy": "A small everyday ritual that recalls the destination after the trip.",
+      "local_price": "from ₱100",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Department stores and local craft markets",
+      "airport_availability": "Sometimes available in departure-side gift or beauty shops; stock varies by terminal.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.9",
+      "review_count": 387,
+      "price_amount": "100.00",
+      "currency_code": "PHP",
+      "country": "Philippines",
+      "country_slug": "philippines",
+      "photos": [
+        {
+          "product_id": 31,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pet_shampoo_virgin_coconut_oil_Gliricidia_sepium4.jpg/960px-Pet_shampoo_virgin_coconut_oil_Gliricidia_sepium4.jpg",
+          "alt_text": "Coconut soap",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 31,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 31,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "country_id": 7,
+      "name": "Dried mango",
+      "price": "from ₱180",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cebu_Best_Dried_Mango.jpg/960px-Cebu_Best_Dried_Mango.jpg",
+      "tag": "Easy to share",
+      "note": "Choose sealed packs for travel.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "芒果干",
+      "description": "Dried mango is a packable local pantry gift with flavours that are hard to find outside Philippines.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from ₱180",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Department stores and local craft markets",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.9",
+      "review_count": 535,
+      "price_amount": "180.00",
+      "currency_code": "PHP",
+      "country": "Philippines",
+      "country_slug": "philippines",
+      "photos": [
+        {
+          "product_id": 35,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cebu_Best_Dried_Mango.jpg/960px-Cebu_Best_Dried_Mango.jpg",
+          "alt_text": "Dried mango",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 35,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 35,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "country": {
+    "id": 11,
+    "slug": "japan",
+    "name": "Japan",
+    "chinese_name": "日本",
+    "flag": "🇯🇵",
+    "city": "Tokyo",
+    "buy": "beautifully wrapped regional sweets, craft and stationery",
+    "chinese_buy": "精美包装的地区甜点、工艺品与文具",
+    "tip": "Japan excels at omiyage: look for sealed, shareable boxes and keep fragile crafts in hand luggage.",
+    "chinese_tip": "日本的伴手礼文化非常成熟：选择密封、方便分享的礼盒，易碎工艺品请随身携带。",
+    "shopping_location": "Tokyo Station, department-store basements, Don Quijote, Hands and major airports.",
+    "reference_url": "https://www.japan.travel/en/guide/shopping-in-japan/",
+    "find_count": 15
+  },
+  "products": [
+    {
+      "id": 119,
+      "country_id": 11,
+      "name": "Furoshiki wrapping cloth",
+      "price": "from ¥1,200",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4GTZtu3DjHimKMEZix5Tu9r-Haj8JwlzWtPqGDqHig&s=10",
+      "tag": "Reusable Japanese design",
+      "note": "Choose cotton for a practical everyday wrap.",
+      "reference_url": "https://www.japan.travel/en/local-specialities/local-crafts/",
+      "chinese_name": "风吕敷日式包袱布",
+      "description": "A patterned square cloth used in Japan for wrapping gifts and carrying items.",
+      "why_buy": "It is a lightweight, reusable alternative to a conventional souvenir bag.",
+      "local_price": "from ¥1,200",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Kyoto craft stores, Hands, LOFT and museum shops.",
+      "airport_availability": "Common at selected airport shops.",
+      "online_availability": "Available from Japanese design stores. ",
+      "rating": "4.7",
+      "review_count": 635,
+      "price_amount": "1200.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 119,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4GTZtu3DjHimKMEZix5Tu9r-Haj8JwlzWtPqGDqHig&s=10",
+          "alt_text": "Furoshiki wrapping cloth",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 119,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.7",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "country_id": 11,
+      "name": "Gachapon capsule toy",
+      "price": "from ¥300",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSA5G_4snLPjXokfRYsjpqXmgMYMM6yKx25gQcrA5Q-A&s=10",
+      "tag": "Kawaii surprise",
+      "note": "Keep the paper insert with the toy.",
+      "reference_url": "https://www.japan.travel/en/guide/shopping-in-japan/",
+      "chinese_name": "扭蛋胶囊玩具",
+      "description": "A surprise collectible from Japan’s ubiquitous capsule-toy machines.",
+      "why_buy": "It is the cheapest and most playful way to bring home Japanese pop culture.",
+      "local_price": "from ¥300",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Akihabara, station arcades, malls and Don Quijote.",
+      "airport_availability": "Selected airport machines.",
+      "online_availability": "Some collections available online. ",
+      "rating": "4.6",
+      "review_count": 1055,
+      "price_amount": "300.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 125,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSA5G_4snLPjXokfRYsjpqXmgMYMM6yKx25gQcrA5Q-A&s=10",
+          "alt_text": "Gachapon capsule toy",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 125,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.6",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "country_id": 11,
+      "name": "Hario V60 ceramic dripper",
+      "price": "from ¥1,600",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GUKZkO2DUf3xdZgRgPGzst91N2dohok0NPfoqAIaHg&s",
+      "tag": "Japanese coffee design",
+      "note": "Carry ceramic versions in hand luggage.",
+      "reference_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+      "chinese_name": "Hario V60 陶瓷手冲咖啡滤杯",
+      "description": "A Japanese-designed pour-over dripper favoured by home coffee brewers.",
+      "why_buy": "It is a useful, well-designed souvenir that continues the trip at home.",
+      "local_price": "from ¥1,600",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Kappabashi, Hands, Yodobashi and coffee shops.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Widely available from Hario online. ",
+      "rating": "4.8",
+      "review_count": 803,
+      "price_amount": "1600.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 122,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GUKZkO2DUf3xdZgRgPGzst91N2dohok0NPfoqAIaHg&s",
+          "alt_text": "Hario V60 ceramic dripper",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 122,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "country_id": 11,
+      "name": "KitKat Japan regional flavour box",
+      "price": "from ¥900",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx4RvQbtUzxJIybR6tXaGKk5KbtRVGyw8eoeZeZEzjg&s=10",
+      "tag": "Regional edition",
+      "note": "Look for place-specific flavours.",
+      "reference_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+      "chinese_name": "日本地区限定奇巧巧克力礼盒",
+      "description": "Japan-only KitKat flavours such as matcha, sake and regional fruit.",
+      "why_buy": "They are inexpensive, colourful and easy to split into individual gifts.",
+      "local_price": "from ¥900",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Don Quijote, supermarkets, drugstores and station shops.",
+      "airport_availability": "Yes, at major airports.",
+      "online_availability": "Available through Japanese snack retailers. ",
+      "rating": "4.7",
+      "review_count": 1369,
+      "price_amount": "900.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 116,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx4RvQbtUzxJIybR6tXaGKk5KbtRVGyw8eoeZeZEzjg&s=10",
+          "alt_text": "KitKat Japan regional flavour box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 116,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.7",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "country_id": 11,
+      "name": "Kokeshi wooden doll",
+      "price": "from ¥1,800",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgE1kRXxEyq3ZPFzfaWoEhPKjaZDBWFrsYPWmcaygJMQ&s=10",
+      "tag": "Tohoku craft",
+      "note": "Wrap carefully and carry fragile pieces onboard.",
+      "reference_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+      "chinese_name": "小芥子木偶",
+      "description": "A hand-painted, limbless wooden doll from northern Japanese craft tradition.",
+      "why_buy": "It is a warm, iconic Japanese handmade keepsake with many regional styles.",
+      "local_price": "from ¥1,800",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Asakusa, Tohoku craft shops and Nakamise Street.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available from artisan retailers. ",
+      "rating": "4.7",
+      "review_count": 511,
+      "price_amount": "1800.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 120,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgE1kRXxEyq3ZPFzfaWoEhPKjaZDBWFrsYPWmcaygJMQ&s=10",
+          "alt_text": "Kokeshi wooden doll",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 120,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.7",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "country_id": 11,
+      "name": "Maneki-neko lucky cat figurine",
+      "price": "from ¥1,200",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdGO2Gu0gnU5tG_Sv2St2mWCNpnh5XalGaMQNucZ_lg&s",
+      "tag": "Lucky Japan icon",
+      "note": "Choose a small ceramic size for safer packing.",
+      "reference_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+      "chinese_name": "招财猫摆件",
+      "description": "A beckoning-cat figurine traditionally associated with good fortune.",
+      "why_buy": "It is an instantly recognisable Japanese symbol and a cheerful home gift.",
+      "local_price": "from ¥1,200",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Asakusa Nakamise, Gotokuji area and museum stores.",
+      "airport_availability": "Available at selected airports.",
+      "online_availability": "Available from Japanese souvenir shops. ",
+      "rating": "4.6",
+      "review_count": 688,
+      "price_amount": "1200.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 121,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdGO2Gu0gnU5tG_Sv2St2mWCNpnh5XalGaMQNucZ_lg&s",
+          "alt_text": "Maneki-neko lucky cat figurine",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 121,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.6",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "country_id": 11,
+      "name": "Midori MD notebook",
+      "price": "from ¥1,100",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPpHF38PRqfqwDsx9xJJHxXyek8SI3iNs0Pe4MIEFVg&s=10",
+      "tag": "Japanese stationery",
+      "note": "Keep it flat in your carry-on.",
+      "reference_url": "https://www.japan.travel/en/guide/shopping-in-japan/",
+      "chinese_name": "MIDORI MD 笔记本",
+      "description": "A minimalist Japanese notebook prized for smooth fountain-pen-friendly paper.",
+      "why_buy": "Japan’s stationery culture makes this a useful souvenir for almost anyone.",
+      "local_price": "from ¥1,100",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "LOFT, Hands, Itoya and stationery shops.",
+      "airport_availability": "Available at selected airport shops.",
+      "online_availability": "Available from Japanese stationery retailers. ",
+      "rating": "4.8",
+      "review_count": 721,
+      "price_amount": "1100.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 123,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPpHF38PRqfqwDsx9xJJHxXyek8SI3iNs0Pe4MIEFVg&s=10",
+          "alt_text": "Midori MD notebook",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 123,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "country_id": 11,
+      "name": "N.Y. Caramel Sand cookie box",
+      "price": "from ¥1,350",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-fCaiENhy59ypWshGc7KrbqhSdnkE9lUNb8w51IbKA&s=10",
+      "tag": "Tokyo Station favourite",
+      "note": "Buy early; popular flavours sell out.",
+      "reference_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+      "chinese_name": "纽约焦糖夹心饼干礼盒",
+      "description": "Caramel and chocolate sandwiched between crisp cookies.",
+      "why_buy": "A highly sought-after Tokyo Station gift with a polished presentation.",
+      "local_price": "from ¥1,350",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Tokyo Station Gransta and selected department stores.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Limited official online sales. ",
+      "rating": "4.8",
+      "review_count": 987,
+      "price_amount": "1350.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 115,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-fCaiENhy59ypWshGc7KrbqhSdnkE9lUNb8w51IbKA&s=10",
+          "alt_text": "N.Y. Caramel Sand cookie box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 115,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "country_id": 11,
+      "name": "Nishijin-ori silk pouch",
+      "price": "from ¥2,200",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjbvNtujUMz8UEPHggnvyQgS994_p2KBYbfb-YOh-JIQ&s=10",
+      "tag": "Kyoto textile",
+      "note": "Choose a lined pouch and keep it dry.",
+      "reference_url": "https://www.japan.travel/en/local-specialities/local-crafts/",
+      "chinese_name": "西阵织丝绸小袋",
+      "description": "A small pouch made with Kyoto’s richly patterned Nishijin woven textile.",
+      "why_buy": "It brings home heritage fabric in a practical, packable form.",
+      "local_price": "from ¥2,200",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Kyoto craft shops, Nishijin district and museum stores.",
+      "airport_availability": "Limited; buy in Kyoto.",
+      "online_availability": "Available from selected craft retailers. ",
+      "rating": "4.7",
+      "review_count": 428,
+      "price_amount": "2200.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 118,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjbvNtujUMz8UEPHggnvyQgS994_p2KBYbfb-YOh-JIQ&s=10",
+          "alt_text": "Nishijin-ori silk pouch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 118,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.7",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "country_id": 11,
+      "name": "Royce Nama Chocolate au lait",
+      "price": "from ¥1,080",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg7Q0hIH8aFzIktbbXkul_W9L-3kGg7Zh1G3nCUD2WQ&s",
+      "tag": "Hokkaido chocolate",
+      "note": "Keep chilled and check your transfer time.",
+      "reference_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+      "chinese_name": "罗伊斯生巧克力原味",
+      "description": "Silky fresh chocolate from Hokkaido confectioner Royce.",
+      "why_buy": "It is a luxurious Japan gift that feels far more special than standard chocolate.",
+      "local_price": "from ¥1,080",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Royce stores, department stores and Hokkaido outlets.",
+      "airport_availability": "Yes, with chilled handling.",
+      "online_availability": "Available from Royce online. ",
+      "rating": "4.9",
+      "review_count": 1127,
+      "price_amount": "1080.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 114,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg7Q0hIH8aFzIktbbXkul_W9L-3kGg7Zh1G3nCUD2WQ&s",
+          "alt_text": "Royce Nama Chocolate au lait",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 114,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.9",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "country_id": 11,
+      "name": "Shiroi Koibito white-chocolate cookies",
+      "price": "from ¥1,050",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQojCaXRzk5o5_ZDm2ETbsE-Yi9C8bHRIrGj-ohRkA8cA&s=10",
+      "tag": "Hokkaido icon",
+      "note": "Keep the box flat to avoid breakage.",
+      "reference_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+      "chinese_name": "白色恋人白巧克力饼干",
+      "description": "Two langue de chat cookies sandwiching a square of white chocolate.",
+      "why_buy": "It is Hokkaido’s classic boxed souvenir and a reliable office gift.",
+      "local_price": "from ¥1,050",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Hokkaido shops, department stores and airports.",
+      "airport_availability": "Yes, at major airports.",
+      "online_availability": "Available from Ishiya online. ",
+      "rating": "4.8",
+      "review_count": 1195,
+      "price_amount": "1050.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 113,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQojCaXRzk5o5_ZDm2ETbsE-Yi9C8bHRIrGj-ohRkA8cA&s=10",
+          "alt_text": "Shiroi Koibito white-chocolate cookies",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 113,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "country_id": 11,
+      "name": "Tokyo Banana original gift box",
+      "price": "from ¥1,300",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl-S42rbWh0d-eKHmt6RMfUakESG9ZrJVRBynTrhrMA&s=10",
+      "tag": "Tokyo classic",
+      "note": "Buy close to departure and protect the box.",
+      "reference_url": "https://www.kkday.com/en/blog/57545/top-10-must-buy-souvenirs-in-tokyo",
+      "chinese_name": "东京香蕉蛋糕礼盒",
+      "description": "Soft banana-shaped sponge cakes with banana custard filling.",
+      "why_buy": "It is one of Tokyo’s most recognisable individually wrapped omiyage gifts.",
+      "local_price": "from ¥1,300",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Tokyo Station, Tokyo Solamachi and major department stores.",
+      "airport_availability": "Yes, at Haneda and Narita.",
+      "online_availability": "Available from official Japanese retailers. ",
+      "rating": "4.8",
+      "review_count": 1432,
+      "price_amount": "1300.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 111,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl-S42rbWh0d-eKHmt6RMfUakESG9ZrJVRBynTrhrMA&s=10",
+          "alt_text": "Tokyo Banana original gift box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 111,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "country_id": 11,
+      "name": "Tokyo Milk Cheese Factory Salt & Camembert cookies",
+      "price": "from ¥1,350",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfRlmkTSmH2r_Nu8eG8bAGSsCD2lzhnu17SUJ0Z7E8g&s=10",
+      "tag": "Cheese-cookie hit",
+      "note": "Choose the assorted box for sharing.",
+      "reference_url": "https://www.kkday.com/en/blog/57545/top-10-must-buy-souvenirs-in-tokyo",
+      "chinese_name": "东京牛奶芝士工坊咸卡门贝尔饼干",
+      "description": "Crisp cookies pairing milk, salt and Camembert cheese.",
+      "why_buy": "The brand is a modern Tokyo favourite with elegant gift boxes.",
+      "local_price": "from ¥1,350",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Tokyo Station, Haneda Airport and department stores.",
+      "airport_availability": "Yes, at Haneda and Narita.",
+      "online_availability": "Available through official Japanese shops. ",
+      "rating": "4.8",
+      "review_count": 1068,
+      "price_amount": "1350.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 112,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfRlmkTSmH2r_Nu8eG8bAGSsCD2lzhnu17SUJ0Z7E8g&s=10",
+          "alt_text": "Tokyo Milk Cheese Factory Salt & Camembert cookies",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 112,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "country_id": 11,
+      "name": "Uji matcha gift tin",
+      "price": "from ¥1,500",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXd86LMpw3rKefdk6uo_2W6Gwdlf3qF3uZ4POh362Hw&s=10",
+      "tag": "Kyoto tea ritual",
+      "note": "Choose a sealed tin and keep it dry.",
+      "reference_url": "https://www.japan.travel/en/story/shopping-in-kyoto/",
+      "chinese_name": "宇治抹茶礼罐",
+      "description": "Fine green tea powder from Kyoto’s Uji tea tradition.",
+      "why_buy": "It is a refined, lightweight gift for tea and baking enthusiasts.",
+      "local_price": "from ¥1,500",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "Ippodo, Nakamura Tokichi, Kyoto tea shops and department stores.",
+      "airport_availability": "Available at selected airports.",
+      "online_availability": "Available through specialist tea sellers. ",
+      "rating": "4.8",
+      "review_count": 744,
+      "price_amount": "1500.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 117,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXd86LMpw3rKefdk6uo_2W6Gwdlf3qF3uZ4POh362Hw&s=10",
+          "alt_text": "Uji matcha gift tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 117,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.8",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "country_id": 11,
+      "name": "Uni Kuru Toga mechanical pencil",
+      "price": "from ¥700",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIk142873xzvak9jcVFrrtnbekvASnPcoPPgjT3nZyg&s=10",
+      "tag": "Stationery essential",
+      "note": "Buy multiple colours for small gifts.",
+      "reference_url": "https://www.japan.travel/en/guide/shopping-in-japan/",
+      "chinese_name": "三菱自动铅笔",
+      "description": "A Japanese mechanical pencil with a rotating lead mechanism.",
+      "why_buy": "It is compact, affordable and a genuine everyday Japanese-design find.",
+      "local_price": "from ¥700",
+      "typical_overseas_price": "Often marked up overseas or unavailable outside Japan.",
+      "savings": "Buy in Japan for regional editions, freshness and wider selection.",
+      "best_shops": "LOFT, Hands, Don Quijote and stationery shops.",
+      "airport_availability": "Available at airport stationery stores.",
+      "online_availability": "Widely available online. ",
+      "rating": "4.7",
+      "review_count": 904,
+      "price_amount": "700.00",
+      "currency_code": "JPY",
+      "country": "Japan",
+      "country_slug": "japan",
+      "photos": [
+        {
+          "product_id": 124,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIk142873xzvak9jcVFrrtnbekvASnPcoPPgjT3nZyg&s=10",
+          "alt_text": "Uni Kuru Toga mechanical pencil",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 124,
+          "reviewer_name": "Aiko N.",
+          "rating": "4.7",
+          "body": "A beautifully packaged Japanese pick that was easy to take home and share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

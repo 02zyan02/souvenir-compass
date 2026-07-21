@@ -1,0 +1,269 @@
+{
+  "country": {
+    "id": 6,
+    "slug": "myanmar",
+    "name": "Myanmar",
+    "chinese_name": "缅甸",
+    "flag": "🇲🇲",
+    "city": "Yangon",
+    "buy": "Lacquerware, longyi & tea",
+    "chinese_buy": "漆器、笼基长裙与茶叶",
+    "tip": "Prioritise small, durable handmade pieces; check current travel guidance before planning.",
+    "chinese_tip": "优先考虑小巧耐用的手作，并在出行前查看最新旅行建议。",
+    "shopping_location": "Independent craft shops; verify travel conditions",
+    "reference_url": "https://www.kkday.com/en/blog/",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 30,
+      "country_id": 6,
+      "name": "Lacquerware box",
+      "price": "from K18,000",
+      "category": "Home",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Myanmar_Lacquerware.jpg",
+      "tag": "Heritage craft",
+      "note": "Buy only where travel conditions allow.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "缅甸漆器盒",
+      "description": "Lacquerware box is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from K18,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Independent craft shops; verify travel conditions",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 350,
+      "price_amount": "18000.00",
+      "currency_code": "MMK",
+      "country": "Myanmar",
+      "country_slug": "myanmar",
+      "photos": [
+        {
+          "product_id": 30,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Myanmar_Lacquerware.jpg",
+          "alt_text": "Lacquerware box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 30,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 30,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "country_id": 6,
+      "name": "Lahpet tea-leaf mix",
+      "price": "from K9,000",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lahpet_for_sale.jpg/960px-Lahpet_for_sale.jpg",
+      "tag": "Tea-shop flavour",
+      "note": "Check import rules for prepared food before flying.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "腌茶叶拌料",
+      "description": "Lahpet tea-leaf mix is a packable local pantry gift with flavours that are hard to find outside Myanmar.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from K9,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Independent craft shops; verify travel conditions",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.6",
+      "review_count": 276,
+      "price_amount": "9000.00",
+      "currency_code": "MMK",
+      "country": "Myanmar",
+      "country_slug": "myanmar",
+      "photos": [
+        {
+          "product_id": 28,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lahpet_for_sale.jpg/960px-Lahpet_for_sale.jpg",
+          "alt_text": "Lahpet tea-leaf mix",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 28,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 28,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "country_id": 6,
+      "name": "Longyi textile",
+      "price": "from K15,000",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arakanese_longyi.png/960px-Arakanese_longyi.png",
+      "tag": "Versatile weave",
+      "note": "A lightweight length of fabric packs easily.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "笼基布料",
+      "description": "Longyi textile is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from K15,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Independent craft shops; verify travel conditions",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 313,
+      "price_amount": "15000.00",
+      "currency_code": "MMK",
+      "country": "Myanmar",
+      "country_slug": "myanmar",
+      "photos": [
+        {
+          "product_id": 29,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arakanese_longyi.png/960px-Arakanese_longyi.png",
+          "alt_text": "Longyi textile",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 29,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 29,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "country_id": 6,
+      "name": "Shan paper fan",
+      "price": "from K12,000",
+      "category": "Home",
+      "image_url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=85",
+      "tag": "Hand-painted",
+      "note": "Carry this flat paper craft in a rigid folder.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "掸邦纸扇",
+      "description": "Shan paper fan is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from K12,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Independent craft shops; verify travel conditions",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 202,
+      "price_amount": "12000.00",
+      "currency_code": "MMK",
+      "country": "Myanmar",
+      "country_slug": "myanmar",
+      "photos": [
+        {
+          "product_id": 26,
+          "image_url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Shan paper fan",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 26,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 26,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "country_id": 6,
+      "name": "Thanaka powder",
+      "price": "from K7,000",
+      "category": "Beauty",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Girl_wearing_Thanaka_paste_in_Yangon%2C_Myanmar.jpg/960px-Girl_wearing_Thanaka_paste_in_Yangon%2C_Myanmar.jpg",
+      "tag": "Traditional beauty",
+      "note": "Pick clearly labelled, sealed cosmetics.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "特纳卡粉",
+      "description": "Thanaka powder is a locally inspired self-care pick that travels easily in a wash bag.",
+      "why_buy": "A small everyday ritual that recalls the destination after the trip.",
+      "local_price": "from K7,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Independent craft shops; verify travel conditions",
+      "airport_availability": "Sometimes available in departure-side gift or beauty shops; stock varies by terminal.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.9",
+      "review_count": 239,
+      "price_amount": "7000.00",
+      "currency_code": "MMK",
+      "country": "Myanmar",
+      "country_slug": "myanmar",
+      "photos": [
+        {
+          "product_id": 27,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Girl_wearing_Thanaka_paste_in_Yangon%2C_Myanmar.jpg/960px-Girl_wearing_Thanaka_paste_in_Yangon%2C_Myanmar.jpg",
+          "alt_text": "Thanaka powder",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 27,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 27,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

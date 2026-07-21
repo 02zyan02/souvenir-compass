@@ -1,24 +1,7 @@
 services:
-  db:
-    image: postgres:16-alpine
-    environment:
-      POSTGRES_DB: souvenir_compass
-      POSTGRES_USER: souvenir_compass
-      POSTGRES_PASSWORD: souvenir_compass
-    ports:
-      - "5432:5432"
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-      - ./database:/docker-entrypoint-initdb.d:ro
   app:
     build: .
     environment:
-      DATABASE_URL: postgresql://souvenir_compass:souvenir_compass@db:5432/souvenir_compass
       PORT: 3001
-    depends_on:
-      - db
     ports:
       - "3001:3001"
-
-volumes:
-  postgres_data:

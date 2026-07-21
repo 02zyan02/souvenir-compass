@@ -1,0 +1,1035 @@
+{
+  "country": {
+    "id": 5,
+    "slug": "malaysia",
+    "name": "Malaysia",
+    "chinese_name": "马来西亚",
+    "flag": "🇲🇾",
+    "city": "Kuala Terengganu",
+    "buy": "Batik, songket & snacks",
+    "chinese_buy": "蜡染、宋吉锦与传统零食",
+    "tip": "Pasar Payang is a good starting point for textiles and traditional snacks.",
+    "chinese_tip": "Pasar Payang 是寻找纺织品和传统小吃的好起点。",
+    "shopping_location": "Central Market and major supermarkets",
+    "reference_url": "https://www.trip.com/guide/",
+    "find_count": 22
+  },
+  "products": [
+    {
+      "id": 64,
+      "country_id": 5,
+      "name": "BOH Cameronian Gold tea tin",
+      "price": "from RM22",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhaBwTPwLzH48L1crplJRSs4uP8lnjEmJBxJCj1_IwQPmEAJnw17Jo0KWu9TvcCom3oFdkJzAnZ_M3ZY0Mc4fdSenvX_8D3ShTY4NhjYIf40bQ7r_dGlts",
+      "tag": "Highland tea",
+      "note": "Choose a sealed tin for easier packing.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "BOH 金马仑高原金牌茶罐",
+      "description": "Black tea from Malaysia’s Cameron Highlands, presented in a giftable tin.",
+      "why_buy": "It is a light, polished gift for tea drinkers.",
+      "local_price": "from RM22",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "BOH Tea Centre, AEON, Village Grocer and KLIA.",
+      "airport_availability": "Often available at airports.",
+      "online_availability": "Available through specialty tea sellers. ",
+      "rating": "4.8",
+      "review_count": 721,
+      "price_amount": "22.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 64,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhaBwTPwLzH48L1crplJRSs4uP8lnjEmJBxJCj1_IwQPmEAJnw17Jo0KWu9TvcCom3oFdkJzAnZ_M3ZY0Mc4fdSenvX_8D3ShTY4NhjYIf40bQ7r_dGlts",
+          "alt_text": "BOH Cameronian Gold tea tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 64,
+          "reviewer_name": "Amir R.",
+          "rating": "4.8",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "country_id": 5,
+      "name": "Beryl’s Tiramisu Almond chocolate box",
+      "price": "from RM18",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZK7irAKRu-7IBUhZu__TEses21eDI4JjS-CaMqLR7A&s=10",
+      "tag": "Gift-box favourite",
+      "note": "Carry chocolate in hand luggage in warm weather.",
+      "reference_url": "https://id.trip.com/guide/info/what-to-buy-in-kuala-lumpur.html",
+      "chinese_name": "倍乐思提拉米苏杏仁巧克力",
+      "description": "A Malaysian chocolate gift box with a popular tiramisu almond flavour.",
+      "why_buy": "Beryl’s is a recognisable local brand with polished, shareable packaging.",
+      "local_price": "from RM18",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Beryl’s Chocolate Kingdom, AEON, Village Grocer and KLIA.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.6",
+      "review_count": 128,
+      "price_amount": "18.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 24,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZK7irAKRu-7IBUhZu__TEses21eDI4JjS-CaMqLR7A&s=10",
+          "alt_text": "Beryl’s Tiramisu Almond chocolate box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 24,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 24,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 24,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "country_id": 5,
+      "name": "Fipper tropical flip-flops",
+      "price": "from RM25",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTQ2IzfYt5ae1c-H-dtjo2qFHY5V3or8THv6CDvs8Uw&s=10",
+      "tag": "Practical local brand",
+      "note": "Try the fit before buying.",
+      "reference_url": "https://my.trip.com/blog/souvenirs-malaysia-guide",
+      "chinese_name": "Fipper 热带人字拖",
+      "description": "Colourful Malaysian flip-flops from a familiar local footwear brand.",
+      "why_buy": "They are genuinely useful travel gear rather than a display-only souvenir.",
+      "local_price": "from RM25",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Fipper stores, malls and outlet centres.",
+      "airport_availability": "Available in some airport shops.",
+      "online_availability": "Available through brand and marketplace sites. ",
+      "rating": "4.5",
+      "review_count": 312,
+      "price_amount": "25.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 78,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTQ2IzfYt5ae1c-H-dtjo2qFHY5V3or8THv6CDvs8Uw&s=10",
+          "alt_text": "Fipper tropical flip-flops",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 78,
+          "reviewer_name": "Amir R.",
+          "rating": "4.5",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "country_id": 5,
+      "name": "Ghee Hiang sesame oil bottle",
+      "price": "from RM16",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHomF6b03OIxWuBtHqU5rw0fkon1SseX7pvQyswCvHQ&s=10",
+      "tag": "Penang pantry icon",
+      "note": "Wrap securely and place in checked baggage.",
+      "reference_url": "https://hk.trip.com/moments/detail/george-town-57611-136772631",
+      "chinese_name": "义香芝麻油",
+      "description": "A Penang pantry staple from a long-running local biscuit and sesame-oil maker.",
+      "why_buy": "It is a useful cooking souvenir with strong regional identity.",
+      "local_price": "from RM16",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Ghee Hiang, Penang markets and selected grocers.",
+      "airport_availability": "Not ideal for carry-on due to liquid limits.",
+      "online_availability": "Available from specialty food sellers. ",
+      "rating": "4.6",
+      "review_count": 365,
+      "price_amount": "16.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 74,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHomF6b03OIxWuBtHqU5rw0fkon1SseX7pvQyswCvHQ&s=10",
+          "alt_text": "Ghee Hiang sesame oil bottle",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 74,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "country_id": 5,
+      "name": "Gula Melaka dodol gift box",
+      "price": "from RM15",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcgYAqeNPS_vi5ImDLU-su0fwWObLJ4iF26LsBMmwgA&s=10",
+      "tag": "Heritage sweet",
+      "note": "Choose individually wrapped pieces.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-kuala-lumpur.html",
+      "chinese_name": "马六甲椰糖多多糕礼盒",
+      "description": "A chewy palm-sugar and coconut confection associated with festive Malaysian sweets.",
+      "why_buy": "It brings a traditional gula Melaka flavour home in a compact gift box.",
+      "local_price": "from RM15",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Central Market, Kampong Baru and traditional sweet shops.",
+      "airport_availability": "Some availability at airports.",
+      "online_availability": "Limited specialist-marketplace availability. ",
+      "rating": "4.7",
+      "review_count": 428,
+      "price_amount": "15.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 76,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcgYAqeNPS_vi5ImDLU-su0fwWObLJ4iF26LsBMmwgA&s=10",
+          "alt_text": "Gula Melaka dodol gift box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 76,
+          "reviewer_name": "Amir R.",
+          "rating": "4.7",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "country_id": 5,
+      "name": "Him Heang tambun biscuit box",
+      "price": "from RM18",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPEOlkaYrq5DDyBZlnIPlmnnmHMl1wRAL437tECmqww&s=10",
+      "tag": "Penang essential",
+      "note": "Check the baked date for freshness.",
+      "reference_url": "https://my.trip.com/guide/info/shopping-in-penang.html",
+      "chinese_name": "馨香淡汶饼礼盒",
+      "description": "Penang’s well-known tau sar pneah pastry with a mung-bean filling.",
+      "why_buy": "It is an individually wrapped, highly shareable Penang classic.",
+      "local_price": "from RM18",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Him Heang, Jalan Burma and Penang souvenir shops.",
+      "airport_availability": "Limited; buy before reaching the airport.",
+      "online_availability": "Available from specialty food sellers. ",
+      "rating": "4.8",
+      "review_count": 884,
+      "price_amount": "18.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 73,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPEOlkaYrq5DDyBZlnIPlmnnmHMl1wRAL437tECmqww&s=10",
+          "alt_text": "Him Heang tambun biscuit box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 73,
+          "reviewer_name": "Amir R.",
+          "rating": "4.8",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "country_id": 5,
+      "name": "Hup Seng cream crackers",
+      "price": "from RM7",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZOXpko_dRmTKlyysQnBhJDtSxLGh-HUczRQMg2FbCQ&s=10",
+      "tag": "Tea-time staple",
+      "note": "Check the box is sealed and not crushed.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "合成苏打饼干",
+      "description": "A long-running Malaysian cracker brand for tea breaks and pantry gifts.",
+      "why_buy": "It is a quietly local supermarket staple that travels well.",
+      "local_price": "from RM7",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Supermarkets, 99 Speedmart and Mydin.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available through regional marketplaces. ",
+      "rating": "4.5",
+      "review_count": 438,
+      "price_amount": "7.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 69,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZOXpko_dRmTKlyysQnBhJDtSxLGh-HUczRQMg2FbCQ&s=10",
+          "alt_text": "Hup Seng cream crackers",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 69,
+          "reviewer_name": "Amir R.",
+          "rating": "4.5",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "country_id": 5,
+      "name": "Julie’s cheese crackers gift box",
+      "price": "from RM12",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy3p6rKqLyKqx6AlU_ru9ad75CcM7tywInYq34iI2Ag&s=10",
+      "tag": "Easy share",
+      "note": "Pick a rigid box for travel.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "Julie’s 芝士饼干礼盒",
+      "description": "A familiar Malaysian biscuit brand with neatly packed cheese crackers.",
+      "why_buy": "It is durable, easy to share, and recognisable to Malaysian hosts.",
+      "local_price": "from RM12",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "AEON, Lotus’s, Mydin and supermarkets.",
+      "airport_availability": "Often stocked at airport gift stores.",
+      "online_availability": "Widely available through Asian grocers. ",
+      "rating": "4.6",
+      "review_count": 592,
+      "price_amount": "12.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 68,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy3p6rKqLyKqx6AlU_ru9ad75CcM7tywInYq34iI2Ag&s=10",
+          "alt_text": "Julie’s cheese crackers gift box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 68,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "country_id": 5,
+      "name": "Kuih kapit love-letter tin",
+      "price": "from RM25",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGypxsiu5Qk-1gflY12w00r9LukPULPxZ7t00VgQF_A&s=10",
+      "tag": "Festive tin",
+      "note": "Keep the tin on top of luggage; the biscuits are fragile.",
+      "reference_url": "https://my.trip.com/guide/info/what-to-buy-in-kuala-lumpur.html",
+      "chinese_name": "鸡蛋卷爱心饼干礼罐",
+      "description": "Crisp folded wafer biscuits with Peranakan and Malaysian Chinese heritage.",
+      "why_buy": "The decorative tin makes it a cheerful, flight-friendly present.",
+      "local_price": "from RM25",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "TK Bakery, Fung Wong Biscuits and festive bazaars.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available seasonally through food sellers. ",
+      "rating": "4.7",
+      "review_count": 396,
+      "price_amount": "25.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 77,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGypxsiu5Qk-1gflY12w00r9LukPULPxZ7t00VgQF_A&s=10",
+          "alt_text": "Kuih kapit love-letter tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 77,
+          "reviewer_name": "Amir R.",
+          "rating": "4.7",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "country_id": 5,
+      "name": "LOT100 mango gummy pouch",
+      "price": "from RM8",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu-ILjMOmwy9F0Bimlig2q0L48mwxvtB65ZZNlatsFQ&s=10",
+      "tag": "Fruit chew",
+      "note": "Choose a sealed pouch for easy sharing.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "LOT100 芒果软糖袋装",
+      "description": "A Malaysian fruit-gummy souvenir with mango as the standout flavour.",
+      "why_buy": "It is colourful, compact, and familiar to local snack shoppers.",
+      "local_price": "from RM8",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "AEON, Lotus’s, Mydin and convenience stores.",
+      "airport_availability": "Often available at airports.",
+      "online_availability": "Available via snack marketplaces. ",
+      "rating": "4.6",
+      "review_count": 681,
+      "price_amount": "8.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 70,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu-ILjMOmwy9F0Bimlig2q0L48mwxvtB65ZZNlatsFQ&s=10",
+          "alt_text": "LOT100 mango gummy pouch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 70,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "country_id": 5,
+      "name": "Maggi curry noodle multipack",
+      "price": "from RM10",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZa-wLedY-dcTCjsXCSDHHlF8HkJMhqRb8nxR0P0lDRg&s=10",
+      "tag": "National pantry pick",
+      "note": "Pack in a zip bag to protect other luggage.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "美极咖喱方便面多包装",
+      "description": "A Malaysian supermarket classic for an easy curry-noodle meal.",
+      "why_buy": "It is a familiar local pantry item with broad flavour appeal.",
+      "local_price": "from RM10",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Lotus’s, AEON, Mydin and supermarkets.",
+      "airport_availability": "Common at airport food shops.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.6",
+      "review_count": 776,
+      "price_amount": "10.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 71,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZa-wLedY-dcTCjsXCSDHHlF8HkJMhqRb8nxR0P0lDRg&s=10",
+          "alt_text": "Maggi curry noodle multipack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 71,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "country_id": 5,
+      "name": "Mamee Monster noodle snack pack",
+      "price": "from RM5",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVE2in0t_Bolq6zF_101U1AIWitPfx4umlEbbw0rvN7Q&s=10",
+      "tag": "Childhood classic",
+      "note": "Choose multi-packs for sharing.",
+      "reference_url": "https://my.trip.com/blog/souvenirs-malaysia-guide",
+      "chinese_name": "Mamee Monster 干脆面零食包",
+      "description": "Crunchy, ready-to-eat noodle snacks loved across Malaysia.",
+      "why_buy": "It is an inexpensive, playful supermarket souvenir.",
+      "local_price": "from RM5",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "99 Speedmart, AEON, Mydin and convenience stores.",
+      "airport_availability": "Often available at airports.",
+      "online_availability": "Available through Southeast Asian marketplaces. ",
+      "rating": "4.6",
+      "review_count": 635,
+      "price_amount": "5.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 66,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVE2in0t_Bolq6zF_101U1AIWitPfx4umlEbbw0rvN7Q&s=10",
+          "alt_text": "Mamee Monster noodle snack pack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 66,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "country_id": 5,
+      "name": "Mister Potato hot and spicy chips",
+      "price": "from RM6",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJx7JnuRFbgFuWpT1toPnUwNK2AsTv6f3ibLFGyjXYg&s=10",
+      "tag": "Malaysian crunch",
+      "note": "Keep the tube upright in luggage.",
+      "reference_url": "https://my.trip.com/blog/souvenirs-malaysia-guide",
+      "chinese_name": "Mister Potato 香辣薯片",
+      "description": "A popular Malaysian potato-chip brand with bold local flavours.",
+      "why_buy": "It is an easy, inexpensive supermarket souvenir.",
+      "local_price": "from RM6",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Supermarkets, petrol stations and convenience stores.",
+      "airport_availability": "Often available at airports.",
+      "online_availability": "Available through marketplaces. ",
+      "rating": "4.5",
+      "review_count": 490,
+      "price_amount": "6.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 72,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJx7JnuRFbgFuWpT1toPnUwNK2AsTv6f3ibLFGyjXYg&s=10",
+          "alt_text": "Mister Potato hot and spicy chips",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 72,
+          "reviewer_name": "Amir R.",
+          "rating": "4.5",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "country_id": 5,
+      "name": "MyKuali Penang white curry noodle pack",
+      "price": "from RM9",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmiRi_FBwgW75jGXIlktu-bbmu-_Wyi07Z9mAU-r_Z0elueBhtJW0tj7d8VLbTknvKszRtChHXuLXdoZYjlv2OmG0pPJgbQPfnukvsXigSzGTTEYrci8W_qQ",
+      "tag": "Penang pantry pick",
+      "note": "Keep packs dry and check expiry dates.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "MyKuali 槟城白咖喱面",
+      "description": "A popular Penang-style instant noodle pack with a rich curry profile.",
+      "why_buy": "It is a compact way to recreate a Malaysian comfort-food flavour.",
+      "local_price": "from RM9",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Lotus’s, AEON, Mydin and supermarkets.",
+      "airport_availability": "Common at airport food shops.",
+      "online_availability": "Available through Asian-grocery marketplaces. ",
+      "rating": "4.7",
+      "review_count": 849,
+      "price_amount": "9.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 65,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmiRi_FBwgW75jGXIlktu-bbmu-_Wyi07Z9mAU-r_Z0elueBhtJW0tj7d8VLbTknvKszRtChHXuLXdoZYjlv2OmG0pPJgbQPfnukvsXigSzGTTEYrci8W_qQ",
+          "alt_text": "MyKuali Penang white curry noodle pack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 65,
+          "reviewer_name": "Amir R.",
+          "rating": "4.7",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "country_id": 5,
+      "name": "Nysakapas illustrated stationery set",
+      "price": "from RM35",
+      "category": "Home",
+      "image_url": "https://cdn.store-assets.com/s/297290/i/106674174.jpeg",
+      "tag": "Local design find",
+      "note": "Choose flat pieces for the easiest packing.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-kuala-lumpur.html",
+      "chinese_name": "Nysakapas 插画文具套装",
+      "description": "An illustrated stationery gift from a Malaysian independent design label.",
+      "why_buy": "It offers a contemporary, locally designed alternative to food souvenirs.",
+      "local_price": "from RM35",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Snackfood, Bangsar design stores and selected concept shops.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available through selected design retailers. ",
+      "rating": "4.6",
+      "review_count": 271,
+      "price_amount": "35.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 80,
+          "image_url": "https://cdn.store-assets.com/s/297290/i/106674174.jpeg",
+          "alt_text": "Nysakapas illustrated stationery set",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 80,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "country_id": 5,
+      "name": "OldTown White Coffee classic gift pack",
+      "price": "from RM14",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZnlMR-LPv8zGe3KiYaVpih7KAgZNamdNBVGtVp6AQQ&s=10",
+      "tag": "Ipoh original",
+      "note": "Choose sealed sachets with a long best-before date.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "旧街场白咖啡礼盒",
+      "description": "A creamy Ipoh-style white coffee gift pack from one of Malaysia’s best-known brands.",
+      "why_buy": "It is a simple way to bring a Malaysian kopitiam-style drink home.",
+      "local_price": "from RM14",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "AEON, Lotus’s, OldTown outlets and airport gift shops.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.7",
+      "review_count": 165,
+      "price_amount": "14.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 25,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZnlMR-LPv8zGe3KiYaVpih7KAgZNamdNBVGtVp6AQQ&s=10",
+          "alt_text": "OldTown White Coffee classic gift pack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 25,
+          "reviewer_name": "Amir R.",
+          "rating": "4.7",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 25,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 25,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "country_id": 5,
+      "name": "Oriental Kopi pandan kaya jar",
+      "price": "from RM23",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA75nZep8zEvKG5bDECDzgKRNJlDiR56zcCd-G2gGlEQ&s=10",
+      "tag": "Breakfast gift",
+      "note": "Keep jars in checked baggage when flying.",
+      "reference_url": "https://id.trip.com/guide/info/what-to-buy-in-kuala-lumpur.html",
+      "chinese_name": "华阳咖椰酱",
+      "description": "A pandan kaya spread for recreating Malaysian toast at home.",
+      "why_buy": "It is a distinctly Malaysian breakfast flavour in a sealed jar.",
+      "local_price": "from RM23",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Oriental Kopi, AEON, B.I.G. Grocer and KLIA shops.",
+      "airport_availability": "Available at selected airport shops.",
+      "online_availability": "Available through specialist marketplaces. ",
+      "rating": "4.7",
+      "review_count": 654,
+      "price_amount": "23.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 75,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA75nZep8zEvKG5bDECDzgKRNJlDiR56zcCd-G2gGlEQ&s=10",
+          "alt_text": "Oriental Kopi pandan kaya jar",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 75,
+          "reviewer_name": "Amir R.",
+          "rating": "4.7",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "country_id": 5,
+      "name": "Royal Selangor pewter tumbler",
+      "price": "from RM95",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ekZArRdBgUg5NcMUlK4DcnaYO6OdbmQp1Qeo3OYf-w&s=10",
+      "tag": "Malaysian icon",
+      "note": "Keep the box for safer packing.",
+      "reference_url": "https://id.trip.com/guide/info/what-to-buy-in-kuala-lumpur.html",
+      "chinese_name": "雪兰莪皇家锡杯",
+      "description": "A polished pewter tumbler from Malaysia’s signature heritage craft brand.",
+      "why_buy": "It is a durable, gift-ready piece of Malaysian craftsmanship.",
+      "local_price": "from RM95",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Royal Selangor Visitor Centre, flagship stores and KLIA.",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 934,
+      "price_amount": "95.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 22,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ekZArRdBgUg5NcMUlK4DcnaYO6OdbmQp1Qeo3OYf-w&s=10",
+          "alt_text": "Royal Selangor pewter tumbler",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 22,
+          "reviewer_name": "Amir R.",
+          "rating": "4.8",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 22,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 22,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "country_id": 5,
+      "name": "Super Ring cheese snack",
+      "price": "from RM4",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-ZFYFTZoNA6J-2CdVe_9rSOGLlbghmx8fHV-LwUzJg&s=10",
+      "tag": "Bold snack",
+      "note": "Keep the bag on top of luggage to avoid crushing.",
+      "reference_url": "https://hk.trip.com/moments/detail/kuala-lumpur-45-144790879",
+      "chinese_name": "Super Ring 芝士圈零食",
+      "description": "A distinctive Malaysian cheese-flavoured ring snack.",
+      "why_buy": "It is a fun, low-cost taste test for friends.",
+      "local_price": "from RM4",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "99 Speedmart, AEON, Lotus’s and supermarkets.",
+      "airport_availability": "Often available at airports.",
+      "online_availability": "Available through marketplaces. ",
+      "rating": "4.5",
+      "review_count": 517,
+      "price_amount": "4.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 67,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-ZFYFTZoNA6J-2CdVe_9rSOGLlbghmx8fHV-LwUzJg&s=10",
+          "alt_text": "Super Ring cheese snack",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 67,
+          "reviewer_name": "Amir R.",
+          "rating": "4.5",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "country_id": 5,
+      "name": "Terengganu hand-batik scarf",
+      "price": "from RM55",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqGOUVEaV5Zy4pUIAKjINRP7lcxjyukxZwu0Zx5_V2A&s=10",
+      "tag": "Textile heritage",
+      "note": "Ask whether it is hand-drawn, hand-blocked, or printed.",
+      "reference_url": "https://my.trip.com/guide/info/shopping-in-penang.html",
+      "chinese_name": "登嘉楼手工蜡染围巾",
+      "description": "A lightweight scarf inspired by Malaysia’s east-coast batik tradition.",
+      "why_buy": "It is wearable, easy to pack, and more useful than a standard souvenir.",
+      "local_price": "from RM55",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasar Payang, Central Market and Terengganu batik studios.",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.9",
+      "review_count": 971,
+      "price_amount": "55.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 23,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqGOUVEaV5Zy4pUIAKjINRP7lcxjyukxZwu0Zx5_V2A&s=10",
+          "alt_text": "Terengganu hand-batik scarf",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 23,
+          "reviewer_name": "Amir R.",
+          "rating": "4.9",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 23,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 23,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "country_id": 5,
+      "name": "Terengganu songket pouch",
+      "price": "from RM40",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg",
+      "tag": "Woven keepsake",
+      "note": "Choose a lined pouch to protect the threads.",
+      "reference_url": "https://my.trip.com/guide/info/shopping-in-penang.html",
+      "chinese_name": "登嘉楼宋吉锦小袋",
+      "description": "A compact pouch made with the look of Malaysian songket weaving.",
+      "why_buy": "It carries a ceremonial textile tradition in a practical small format.",
+      "local_price": "from RM40",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasar Payang, Central Market and craft boutiques.",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 897,
+      "price_amount": "40.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 21,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg/960px-Thai_Silk_Cloth_-_Ban_Tha_Sawang.jpg",
+          "alt_text": "Terengganu songket pouch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 21,
+          "reviewer_name": "Amir R.",
+          "rating": "4.7",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 21,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 21,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "country_id": 5,
+      "name": "Vincci mini crossbody bag",
+      "price": "from RM65",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3vKffL0-Gs08Z_LPOELcUU8UVZy9S-jmty8TVzxq3A&s",
+      "tag": "Local fashion",
+      "note": "Check materials and size before leaving the store.",
+      "reference_url": "https://my.trip.com/blog/souvenirs-malaysia-guide",
+      "chinese_name": "Vincci 迷你斜挎包",
+      "description": "An affordable Malaysian fashion accessory from the Vincci brand.",
+      "why_buy": "It is a practical local-brand gift with plenty of colour and style choices.",
+      "local_price": "from RM65",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally for better selection and price.",
+      "best_shops": "Vincci stores, malls and outlet centres.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available through the brand site and marketplaces. ",
+      "rating": "4.6",
+      "review_count": 448,
+      "price_amount": "65.00",
+      "currency_code": "MYR",
+      "country": "Malaysia",
+      "country_slug": "malaysia",
+      "photos": [
+        {
+          "product_id": 79,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3vKffL0-Gs08Z_LPOELcUU8UVZy9S-jmty8TVzxq3A&s",
+          "alt_text": "Vincci mini crossbody bag",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 79,
+          "reviewer_name": "Amir R.",
+          "rating": "4.6",
+          "body": "A recognisable Malaysian pick that packed well and was easy to share.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

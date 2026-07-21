@@ -1,0 +1,269 @@
+{
+  "country": {
+    "id": 4,
+    "slug": "laos",
+    "name": "Laos",
+    "chinese_name": "老挝",
+    "flag": "🇱🇦",
+    "city": "Luang Prabang",
+    "buy": "Textiles, coffee & saa paper",
+    "chinese_buy": "纺织品、咖啡与桑皮纸",
+    "tip": "Local weaving, basketry and paper crafts make light luggage-friendly gifts.",
+    "chinese_tip": "织物、竹编和桑皮纸工艺品轻便，也很适合送礼。",
+    "shopping_location": "Luang Prabang night market",
+    "reference_url": "https://www.kkday.com/en/blog/",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 18,
+      "country_id": 4,
+      "name": "Hmong embroidery pouch",
+      "price": "from ₭60,000",
+      "category": "Fashion",
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+      "tag": "Stitched detail",
+      "note": "Check the stitching and ask who made it.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "苗族刺绣小袋",
+      "description": "Hmong embroidery pouch is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from ₭60,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Luang Prabang night market",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 786,
+      "price_amount": "60000.00",
+      "currency_code": "LAK",
+      "country": "Laos",
+      "country_slug": "laos",
+      "photos": [
+        {
+          "product_id": 18,
+          "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Hmong embroidery pouch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 18,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 18,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "country_id": 4,
+      "name": "Lao coffee",
+      "price": "from ₭45,000",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg",
+      "tag": "Highland roast",
+      "note": "Choose sealed ground coffee or beans.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "老挝咖啡",
+      "description": "Lao coffee is a packable local pantry gift with flavours that are hard to find outside Laos.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from ₭45,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Luang Prabang night market",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.9",
+      "review_count": 823,
+      "price_amount": "45000.00",
+      "currency_code": "LAK",
+      "country": "Laos",
+      "country_slug": "laos",
+      "photos": [
+        {
+          "product_id": 19,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg",
+          "alt_text": "Lao coffee",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 19,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 19,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "country_id": 4,
+      "name": "Lao tea leaves",
+      "price": "from ₭30,000",
+      "category": "Snacks",
+      "image_url": "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?auto=format&fit=crop&w=900&q=85",
+      "tag": "Tea-time gift",
+      "note": "Keep dried tea in its original sealed packaging.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "老挝茶叶",
+      "description": "Lao tea leaves is a packable local pantry gift with flavours that are hard to find outside Laos.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from ₭30,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Luang Prabang night market",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.6",
+      "review_count": 712,
+      "price_amount": "30000.00",
+      "currency_code": "LAK",
+      "country": "Laos",
+      "country_slug": "laos",
+      "photos": [
+        {
+          "product_id": 16,
+          "image_url": "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Lao tea leaves",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 16,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 16,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "country_id": 4,
+      "name": "Saa-paper notebook",
+      "price": "from ₭35,000",
+      "category": "Home",
+      "image_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85",
+      "tag": "Lightweight craft",
+      "note": "A luggage-friendly Luang Prabang find.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "桑皮纸笔记本",
+      "description": "Saa-paper notebook is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from ₭35,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Luang Prabang night market",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.6",
+      "review_count": 860,
+      "price_amount": "35000.00",
+      "currency_code": "LAK",
+      "country": "Laos",
+      "country_slug": "laos",
+      "photos": [
+        {
+          "product_id": 20,
+          "image_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Saa-paper notebook",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 20,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 20,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "country_id": 4,
+      "name": "Sticky-rice basket",
+      "price": "from ₭50,000",
+      "category": "Home",
+      "image_url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+      "tag": "Woven essential",
+      "note": "Pick the smallest size for a sturdy decor gift.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "糯米饭竹篮",
+      "description": "Sticky-rice basket is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from ₭50,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Luang Prabang night market",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 749,
+      "price_amount": "50000.00",
+      "currency_code": "LAK",
+      "country": "Laos",
+      "country_slug": "laos",
+      "photos": [
+        {
+          "product_id": 17,
+          "image_url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Sticky-rice basket",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 17,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 17,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -20,6 +20,7 @@ postgres_data
 pgdata
 dist
 dist-ssr
+public/data
 *.local
 
 # Editor directories and files

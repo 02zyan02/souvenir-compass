@@ -97,6 +97,7 @@ type Catalog = {
   customsInformation: CustomsInformation[];
   travelSpots: TravelSpot[];
 };
+type CatalogIndex = Omit<Catalog, "products"> & { catalogFiles: string[] };
 type Page = "catalog" | "cart" | "customs" | "spots";
 const pageFromHash = (): Page =>
   location.hash === "#cart"
@@ -126,10 +127,23 @@ function App() {
   const zh = language === "zh";
 
   useEffect(() => {
-    const apiBaseUrl = (import.meta.env.VITE_API_URL ?? "").replace(/\/$/, "");
-    fetch(`${apiBaseUrl}/api/catalog`)
+    const dataUrl = (file: string) => `${import.meta.env.BASE_URL}data/${file}`;
+    fetch(dataUrl("catalog-index.json"))
       .then((r) => (r.ok ? r.json() : Promise.reject()))
-      .then((data: Catalog) => {
+      .then(async (index: CatalogIndex) => {
+        const countryCatalogues = await Promise.all(
+          index.catalogFiles.map((file) =>
+            fetch(dataUrl(file)).then((response) =>
+              response.ok ? response.json() : Promise.reject(),
+            ),
+          ),
+        );
+        return {
+          ...index,
+          products: countryCatalogues.flatMap((catalogue) => catalogue.products),
+        } as Catalog;
+      })
+      .then((data) => {
         setCatalog(data);
         setSelectedCountry(
           data.countries.find((c) => c.name === "Singapore") ??
@@ -139,7 +153,7 @@ function App() {
       })
       .catch(() =>
         setLoadError(
-          "The catalogue could not be loaded. Start PostgreSQL and the API, then refresh.",
+          "The catalogue files could not be loaded. Refresh the page or try again shortly.",
         ),
       );
   }, []);

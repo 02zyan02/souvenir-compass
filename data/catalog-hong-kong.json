@@ -1,0 +1,234 @@
+{
+  "country": {
+    "id": 12,
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "chinese_name": "香港",
+    "flag": "🇭🇰",
+    "city": "Hong Kong",
+    "buy": "heritage bakery gifts, Hong Kong design objects and transport miniatures",
+    "chinese_buy": "传统饼食礼盒、香港设计小物与交通模型",
+    "tip": "Buy fragile egg rolls near the end of the trip, and visit Central Market or PMQ for independent local-design labels.",
+    "chinese_tip": "易碎蛋卷建议在行程后段购买；中环街市和PMQ适合寻找本地独立设计品牌。",
+    "shopping_location": "Central Market, PMQ, Causeway Bay, Mong Kok and Hong Kong International Airport.",
+    "reference_url": "https://www.discoverhongkong.com/eng/explore/shopping/hong-kong-souvenirs-where-to-shop-authentic-gifts.html",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 128,
+      "country_id": 12,
+      "name": "G.O.D. Hong Kong Festive Skyline foldable shopping bag",
+      "price": "HK$238",
+      "category": "Fashion",
+      "image_url": "https://god.com.hk/cdn/shop/products/ZipBag02a_1200x1200.jpg?v=1669615720",
+      "tag": "Local design label",
+      "note": "It folds into its zip wallet, so it takes almost no luggage space.",
+      "reference_url": "https://god.com.hk/products/hong-kong-festive-skyline-zip-wallet-shopping-bag",
+      "chinese_name": "G.O.D.香港节庆天际线折叠购物袋",
+      "description": "A reusable foldable tote printed with G.O.D.'s colourful Hong Kong skyline artwork.",
+      "why_buy": "G.O.D. turns local visual culture—skyline, neon, taxis and harbour life—into genuinely usable design.",
+      "local_price": "HK$238",
+      "typical_overseas_price": "About US$40–55 when imported, if stocked.",
+      "savings": "Buying in Hong Kong avoids import mark-ups and gives access to local-only prints.",
+      "best_shops": "G.O.D. Central flagship, PMQ and selected design retailers.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Official G.O.D. web store ships selected products internationally.",
+      "rating": "4.7",
+      "review_count": 492,
+      "price_amount": "238.00",
+      "currency_code": "HKD",
+      "country": "Hong Kong",
+      "country_slug": "hong-kong",
+      "photos": [
+        {
+          "product_id": 128,
+          "image_url": "https://god.com.hk/cdn/shop/products/ZipBag02a_1200x1200.jpg?v=1669615720",
+          "alt_text": "G.O.D. Hong Kong Festive Skyline foldable shopping bag",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 128,
+          "reviewer_name": "Mei L.",
+          "rating": "4.7",
+          "body": "A thoughtful Hong Kong gift with local character; it was easy to carry home.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "country_id": 12,
+      "name": "Kee Wah Bakery classic egg roll gift box",
+      "price": "from HK$98",
+      "category": "Snacks",
+      "image_url": "https://keewah.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/2/2/22kw_1400x1400___8_1.jpg",
+      "tag": "Hong Kong bakery icon",
+      "note": "Keep the tin flat in hand luggage; the rolls are delicate.",
+      "reference_url": "https://keewah.com/en/eggrolls-new.html",
+      "chinese_name": "奇华饼家经典蛋卷礼盒",
+      "description": "A Hong Kong-made gift tin of thin, crisp butter egg rolls in classic and regional flavours.",
+      "why_buy": "Kee Wah has been part of Hong Kong baking culture since 1938, and the sealed gift tin is easy to share.",
+      "local_price": "from HK$98",
+      "typical_overseas_price": "From US$13.50 abroad when available.",
+      "savings": "Buying locally gives fresher stock, more flavours and Hong Kong-only packaging.",
+      "best_shops": "Kee Wah branches, IFC Mall, Citygate and Hong Kong International Airport.",
+      "airport_availability": "Yes, including airport outlets; check terminal stock.",
+      "online_availability": "Official Kee Wah e-shop and selected overseas distributors.",
+      "rating": "4.8",
+      "review_count": 1264,
+      "price_amount": "98.00",
+      "currency_code": "HKD",
+      "country": "Hong Kong",
+      "country_slug": "hong-kong",
+      "photos": [
+        {
+          "product_id": 126,
+          "image_url": "https://keewah.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/2/2/22kw_1400x1400___8_1.jpg",
+          "alt_text": "Kee Wah Bakery classic egg roll gift box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 126,
+          "reviewer_name": "Mei L.",
+          "rating": "4.8",
+          "body": "A thoughtful Hong Kong gift with local character; it was easy to carry home.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "country_id": 12,
+      "name": "TINY City 32 Hong Kong Tram model",
+      "price": "HK$89",
+      "category": "Home",
+      "image_url": "https://www.tiny.com.hk:443/34062/0/0/__ImageGrabber.axd?d=60",
+      "tag": "Hong Kong transport icon",
+      "note": "Keep the small parts and packaging in your carry-on.",
+      "reference_url": "https://www.tiny.com.hk/locale/en-US/product/ATC66115",
+      "chinese_name": "TINY City 32 香港电车模型",
+      "description": "A detailed 1/120 die-cast replica of an iconic Hong Kong double-decker tram.",
+      "why_buy": "It is an officially licensed, distinctly local collectible rather than a generic toy-car souvenir.",
+      "local_price": "HK$89",
+      "typical_overseas_price": "About US$15–25 from overseas specialist sellers.",
+      "savings": "Local stores offer the widest selection of routes, liveries and limited editions.",
+      "best_shops": "TINY at The Peak, Central Market and selected malls.",
+      "airport_availability": "Limited; buy in town for choice.",
+      "online_availability": "TINY Hong Kong e-shop and specialist model retailers.",
+      "rating": "4.8",
+      "review_count": 734,
+      "price_amount": "89.00",
+      "currency_code": "HKD",
+      "country": "Hong Kong",
+      "country_slug": "hong-kong",
+      "photos": [
+        {
+          "product_id": 127,
+          "image_url": "https://www.tiny.com.hk:443/34062/0/0/__ImageGrabber.axd?d=60",
+          "alt_text": "TINY City 32 Hong Kong Tram model",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 127,
+          "reviewer_name": "Mei L.",
+          "rating": "4.8",
+          "body": "A thoughtful Hong Kong gift with local character; it was easy to carry home.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "country_id": 12,
+      "name": "The Lion Rock Press Hong Kong Central postcard",
+      "price": "HK$30",
+      "category": "Home",
+      "image_url": "https://www.thelionrockpress.com/cdn/shop/files/1_15ee0932-5e10-4bbe-bb58-19b9c1d1637a.png?v=1697787231",
+      "tag": "Illustrated Hong Kong",
+      "note": "Buy a small set and mail one from Hong Kong while keeping the rest.",
+      "reference_url": "https://www.thelionrockpress.com/products/postcard-hong-kong-central",
+      "chinese_name": "狮子山出版社香港中环明信片",
+      "description": "An illustrated keepsake postcard celebrating the architecture and streetscape of Central.",
+      "why_buy": "It is affordable, flat-packed and made by a local studio focused on Hong Kong stories and bilingual gifts.",
+      "local_price": "HK$30",
+      "typical_overseas_price": "About US$6–10 plus international postage.",
+      "savings": "Local pickup is cheaper and lets you browse the full city-themed series.",
+      "best_shops": "The Lion Rock Press showroom in Sheung Wan and selected museum/design shops.",
+      "airport_availability": "No.",
+      "online_availability": "Official Lion Rock Press online store offers international delivery.",
+      "rating": "4.7",
+      "review_count": 318,
+      "price_amount": "30.00",
+      "currency_code": "HKD",
+      "country": "Hong Kong",
+      "country_slug": "hong-kong",
+      "photos": [
+        {
+          "product_id": 129,
+          "image_url": "https://www.thelionrockpress.com/cdn/shop/files/1_15ee0932-5e10-4bbe-bb58-19b9c1d1637a.png?v=1697787231",
+          "alt_text": "The Lion Rock Press Hong Kong Central postcard",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 129,
+          "reviewer_name": "Mei L.",
+          "rating": "4.7",
+          "body": "A thoughtful Hong Kong gift with local character; it was easy to carry home.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "country_id": 12,
+      "name": "The Wax Can egg tart scented candle",
+      "price": "HK$195",
+      "category": "Home",
+      "image_url": "https://thewaxcan.com/cdn/shop/files/photo-1_c1b77505-4f7c-4c53-ac9e-a1f31cbdb377.jpg?v=1730036856",
+      "tag": "Egg tart memory",
+      "note": "Wrap carefully and keep it upright; check airline rules for candles.",
+      "reference_url": "https://thewaxcan.com/zh-cn/products/egg-tart-scented-candle",
+      "chinese_name": "The Wax Can 蛋挞味香薰蜡烛",
+      "description": "A Hong Kong handmade, egg-tart-shaped candle with a warm buttery bakery scent.",
+      "why_buy": "It captures a famous Hong Kong flavour in an inventive, locally made home fragrance.",
+      "local_price": "HK$195",
+      "typical_overseas_price": "Usually unavailable overseas; international shipping varies.",
+      "savings": "The local shop has the freshest stock and the widest Hong Kong-themed scent range.",
+      "best_shops": "The Wax Can shops and selected Central Market retailers.",
+      "airport_availability": "No; buy before going to the airport.",
+      "online_availability": "Official The Wax Can online store; shipping destinations vary.",
+      "rating": "4.7",
+      "review_count": 286,
+      "price_amount": "195.00",
+      "currency_code": "HKD",
+      "country": "Hong Kong",
+      "country_slug": "hong-kong",
+      "photos": [
+        {
+          "product_id": 130,
+          "image_url": "https://thewaxcan.com/cdn/shop/files/photo-1_c1b77505-4f7c-4c53-ac9e-a1f31cbdb377.jpg?v=1730036856",
+          "alt_text": "The Wax Can egg tart scented candle",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 130,
+          "reviewer_name": "Mei L.",
+          "rating": "4.7",
+          "body": "A thoughtful Hong Kong gift with local character; it was easy to carry home.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

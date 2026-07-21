@@ -1,0 +1,949 @@
+{
+  "country": {
+    "id": 8,
+    "slug": "singapore",
+    "name": "Singapore",
+    "chinese_name": "新加坡",
+    "flag": "🇸🇬",
+    "city": "Singapore",
+    "buy": "Kaya, tea & local design",
+    "chinese_buy": "咖椰酱、茶与本地设计",
+    "tip": "Design Orchard brings together proudly Singapore-made brands in one stop.",
+    "chinese_tip": "Design Orchard 汇集许多新加坡本土品牌，可一站式选购。",
+    "shopping_location": "FairPrice and Design Orchard",
+    "reference_url": "https://www.trip.com/guide/",
+    "find_count": 20
+  },
+  "products": [
+    {
+      "id": 84,
+      "country_id": 8,
+      "name": "Aroma Truffle black summer truffle chips",
+      "price": "from S$15",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAhU1SJdA3DjWe-HAGWDBX_8fgQQ9x9gFJ2Ef4UxNZg&s=10",
+      "tag": "Local luxury snack",
+      "note": "Protect the bag from crushing.",
+      "reference_url": "https://www.visitsingapore.com/things-to-do/shop/singapore-local-brands/made-with-passion/",
+      "chinese_name": "Aroma Truffle 黑夏松露薯片",
+      "description": "Premium potato chips seasoned with black summer truffle.",
+      "why_buy": "A Singapore-grown gourmet-snack brand for friends who prefer savoury gifts.",
+      "local_price": "from S$15",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Aroma Truffle stores, Design Orchard and premium grocers.",
+      "airport_availability": "Selected Changi availability.",
+      "online_availability": "Available from Aroma Truffle online. ",
+      "rating": "4.7",
+      "review_count": 702,
+      "price_amount": "15.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 84,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAhU1SJdA3DjWe-HAGWDBX_8fgQQ9x9gFJ2Ef4UxNZg&s=10",
+          "alt_text": "Aroma Truffle black summer truffle chips",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 84,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "country_id": 8,
+      "name": "Bacha Coffee Singapore Morning sachets",
+      "price": "from S$25",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSTuwMRJcpPaGFhLapMF5RDlayPUcF9mdKQwa0r7z4w&s=10",
+      "tag": "Coffee luxury",
+      "note": "Use the flat gift box to save suitcase space.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-singapore.html/",
+      "chinese_name": "夿萐咖啡新加坡早晨咖啡包",
+      "description": "A luxe box of aromatic coffee sachets from Singapore-founded Bacha Coffee.",
+      "why_buy": "The packaging feels special enough for a host or office gift.",
+      "local_price": "from S$25",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Bacha Coffee boutiques, ION Orchard and Changi Airport.",
+      "airport_availability": "Yes, at Changi boutiques.",
+      "online_availability": "Available from Bacha Coffee online. ",
+      "rating": "4.7",
+      "review_count": 616,
+      "price_amount": "25.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 88,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSTuwMRJcpPaGFhLapMF5RDlayPUcF9mdKQwa0r7z4w&s=10",
+          "alt_text": "Bacha Coffee Singapore Morning sachets",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 88,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "country_id": 8,
+      "name": "Bee Cheng Hiang sliced pork bak kwa",
+      "price": "from S$20",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVNk3WwCrWD6uV4bgfZ1-t9VdEEe851t_ejMO7QGbmg&s=10",
+      "tag": "Charcoal-grilled classic",
+      "note": "Check your destination’s meat-import rules before buying.",
+      "reference_url": "https://www.visitsingapore.com/content/mice/en/tools-and-resources/plan-your-trip/",
+      "chinese_name": "美珍香切片肉干",
+      "description": "Vacuum-packed charcoal-grilled pork jerky from a renowned Singapore brand.",
+      "why_buy": "It is one of Singapore’s best-known edible gifts, especially for sharing.",
+      "local_price": "from S$20",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Bee Cheng Hiang outlets, Bugis, Chinatown and Jewel Changi.",
+      "airport_availability": "Available at selected Changi outlets.",
+      "online_availability": "Available from Bee Cheng Hiang online. ",
+      "rating": "4.8",
+      "review_count": 1260,
+      "price_amount": "20.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 81,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVNk3WwCrWD6uV4bgfZ1-t9VdEEe851t_ejMO7QGbmg&s=10",
+          "alt_text": "Bee Cheng Hiang sliced pork bak kwa",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 81,
+          "reviewer_name": "Jia W.",
+          "rating": "4.8",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "country_id": 8,
+      "name": "Bengawan Solo pandan chiffon cake",
+      "price": "from S$16",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQgXh5LVCVQGKt7lViuxq71gE-9NKbI-TTaAZtjrJqw&s=10",
+      "tag": "Fresh bakery gift",
+      "note": "Buy close to departure and check shelf life.",
+      "reference_url": "https://www.visitsingapore.com/content/dam/desktop/in/downloadkit/veg-is-in.pdf",
+      "chinese_name": "Bengawan Solo 班兰戚风蛋糕",
+      "description": "A soft green pandan chiffon cake from Singapore’s well-known bakery chain.",
+      "why_buy": "Its fragrant pandan profile makes it distinctly Southeast Asian and giftable.",
+      "local_price": "from S$16",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Bengawan Solo outlets and Changi Airport.",
+      "airport_availability": "Yes, at Changi Airport.",
+      "online_availability": "Not ideal for long-distance online delivery. ",
+      "rating": "4.8",
+      "review_count": 931,
+      "price_amount": "16.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 86,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQgXh5LVCVQGKt7lViuxq71gE-9NKbI-TTaAZtjrJqw&s=10",
+          "alt_text": "Bengawan Solo pandan chiffon cake",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 86,
+          "reviewer_name": "Jia W.",
+          "rating": "4.8",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "country_id": 8,
+      "name": "Bengawan Solo pineapple tart box",
+      "price": "from S$22",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTupUi69jOy_KZxlpMAVNKiK5-mK3c9DJWKTrNBcyBUw&s=10",
+      "tag": "Peranakan favourite",
+      "note": "Keep the box level in your luggage.",
+      "reference_url": "https://www.visitsingapore.com/content/dam/desktop/in/downloadkit/veg-is-in.pdf",
+      "chinese_name": "Bengawan Solo 凤梨酥礼盒",
+      "description": "Buttery pineapple tarts from a classic Singapore bakery.",
+      "why_buy": "It is a crowd-pleasing festive-style gift with a strong local bakery identity.",
+      "local_price": "from S$22",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Bengawan Solo outlets, malls and supermarkets.",
+      "airport_availability": "Available at Changi Airport.",
+      "online_availability": "Limited official online availability. ",
+      "rating": "4.8",
+      "review_count": 1046,
+      "price_amount": "22.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 85,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTupUi69jOy_KZxlpMAVNKiK5-mK3c9DJWKTrNBcyBUw&s=10",
+          "alt_text": "Bengawan Solo pineapple tart box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 85,
+          "reviewer_name": "Jia W.",
+          "rating": "4.8",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "country_id": 8,
+      "name": "Fragrance pork bak kwa gift box",
+      "price": "from S$20",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypLiMAgEip_aVXskzc_wZrhWBB10VuKRiJP1qOLUbK6_qoSmmnpDcTBRL&s=10",
+      "tag": "Bak kwa alternative",
+      "note": "Choose sealed packs and check destination meat rules.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-singapore.html/",
+      "chinese_name": "林志源肉干礼盒",
+      "description": "A sweet-savoury grilled pork jerky gift box from another familiar Singapore bak kwa name.",
+      "why_buy": "It gives travellers a brand alternative when comparing Singapore’s bak kwa counters.",
+      "local_price": "from S$20",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Fragrance outlets, Bugis and Chinatown.",
+      "airport_availability": "Limited airport availability.",
+      "online_availability": "Available from Fragrance online. ",
+      "rating": "4.7",
+      "review_count": 814,
+      "price_amount": "20.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 82,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypLiMAgEip_aVXskzc_wZrhWBB10VuKRiJP1qOLUbK6_qoSmmnpDcTBRL&s=10",
+          "alt_text": "Fragrance pork bak kwa gift box",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 82,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "country_id": 8,
+      "name": "Gryphon Singapore Breakfast tea sachets",
+      "price": "from S$18",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNqJ0pZeVMDTGSxXZTfV-Fm0hrFtMEfTrNz1Kbs8idg&s=10",
+      "tag": "Home-grown tea",
+      "note": "Choose a sealed box or tin.",
+      "reference_url": "https://www.visitsingapore.com/content/mice/en/tools-and-resources/plan-your-trip/",
+      "chinese_name": "格里芬新加坡早餐茶包",
+      "description": "Beautifully packaged tea sachets from Singapore home-grown tea brand Gryphon Tea.",
+      "why_buy": "It is a polished local alternative to TWG with a distinctly Singapore-inspired blend.",
+      "local_price": "from S$18",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Gryphon Tea stores, Design Orchard and premium grocers.",
+      "airport_availability": "Available at selected airport retailers.",
+      "online_availability": "Available from Gryphon online. ",
+      "rating": "4.7",
+      "review_count": 541,
+      "price_amount": "18.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 87,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNqJ0pZeVMDTGSxXZTfV-Fm0hrFtMEfTrNz1Kbs8idg&s=10",
+          "alt_text": "Gryphon Singapore Breakfast tea sachets",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 87,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "country_id": 8,
+      "name": "Happy Merlion Family enamel keychain",
+      "price": "from S$10",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbn0JXpFqNYJmoX0Dw1RH5-UzIyX8B3VUoCPFXoJqvjw&s=10",
+      "tag": "Singapore icon",
+      "note": "Keep it in a small pouch to prevent scratches.",
+      "reference_url": "Yes, at Discover Singapore T3.",
+      "chinese_name": "快乐鱼尾狮珐琅钥匙扣",
+      "description": "A cheerful Merlion keepsake from a Singapore souvenir specialist.",
+      "why_buy": "The Merlion is Singapore’s enduring symbol and an easy, lightweight gift.",
+      "local_price": "from S$10",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Discover Singapore at Changi T3, Chinatown and souvenir stores.",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 646,
+      "price_amount": "10.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 38,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbn0JXpFqNYJmoX0Dw1RH5-UzIyX8B3VUoCPFXoJqvjw&s=10",
+          "alt_text": "Happy Merlion Family enamel keychain",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 38,
+          "reviewer_name": "Jia W.",
+          "rating": "4.8",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 38,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 38,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "country_id": 8,
+      "name": "IRVINS salted egg fish skin",
+      "price": "from S$16",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwTUD7mfdtWIAyymSX2KeHCkS48COkNmll64foMEs0g&s=10",
+      "tag": "Dangerously addictive",
+      "note": "Keep the pouch on top of luggage to prevent crushing.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-singapore.html/",
+      "chinese_name": "IRVINS 咸蛋鱼皮",
+      "description": "Crisp fish skin coated in rich salted-egg seasoning.",
+      "why_buy": "IRVINS is a globally recognisable Singapore snack brand with bold gift-ready packs.",
+      "local_price": "from S$16",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "IRVINS stores, FairPrice Finest, Jewel and major malls.",
+      "airport_availability": "Yes, at selected Changi stores.",
+      "online_availability": "Available from IRVINS online. ",
+      "rating": "4.8",
+      "review_count": 1183,
+      "price_amount": "16.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 83,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwTUD7mfdtWIAyymSX2KeHCkS48COkNmll64foMEs0g&s=10",
+          "alt_text": "IRVINS salted egg fish skin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 83,
+          "reviewer_name": "Jia W.",
+          "rating": "4.8",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "country_id": 8,
+      "name": "Merlion fridge magnet",
+      "price": "from S$7",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkG0Obu28Pp4s1VTr370qhBNa8Jv1JqhFDSxYtcHK7PA&s",
+      "tag": "Classic easy gift",
+      "note": "Buy multipacks for colleagues.",
+      "reference_url": "https://visitchangiairport.com/shop/discover-singapore-t3",
+      "chinese_name": "鱼尾狮冰箱贴",
+      "description": "A simple Merlion magnet from Singapore’s dedicated souvenir shops.",
+      "why_buy": "It is the most compact, unmistakably Singapore keepsake for a large gift list.",
+      "local_price": "from S$7",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Discover Singapore T3, Chinatown and Bugis souvenir shops.",
+      "airport_availability": "Yes, at Discover Singapore T3.",
+      "online_availability": "Available from Singapore souvenir retailers. ",
+      "rating": "4.5",
+      "review_count": 785,
+      "price_amount": "7.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 95,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkG0Obu28Pp4s1VTr370qhBNa8Jv1JqhFDSxYtcHK7PA&s",
+          "alt_text": "Merlion fridge magnet",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 95,
+          "reviewer_name": "Jia W.",
+          "rating": "4.5",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "country_id": 8,
+      "name": "Prima Taste Hainanese chicken rice kit",
+      "price": "from S$8",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIByNPsmW2AaxlBflGsdWJwKycJimJyuiKAP1ESp6IpA&s=10",
+      "tag": "Hawker pantry pick",
+      "note": "Keep sachets dry and check expiry dates.",
+      "reference_url": "https://www.visitsingapore.com/content/mice/en/tools-and-resources/plan-your-trip/",
+      "chinese_name": "百胜厨海南鸡饭料理包",
+      "description": "A meal kit designed to recreate Singapore-style chicken rice at home.",
+      "why_buy": "It packs a national hawker-dish reference into a light supermarket gift.",
+      "local_price": "from S$8",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "FairPrice, Cold Storage, Mustafa Centre and supermarkets.",
+      "airport_availability": "Often stocked at Changi food shops.",
+      "online_availability": "Available through Asian grocers. ",
+      "rating": "4.6",
+      "review_count": 583,
+      "price_amount": "8.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 89,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIByNPsmW2AaxlBflGsdWJwKycJimJyuiKAP1ESp6IpA&s=10",
+          "alt_text": "Prima Taste Hainanese chicken rice kit",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 89,
+          "reviewer_name": "Jia W.",
+          "rating": "4.6",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "country_id": 8,
+      "name": "Prima Taste Singapore Laksa meal kit",
+      "price": "from S$8",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJHMCpSCO_i6EVtbgdpPMOC1QhojPq8O5p69jtsPyEA&s=10",
+      "tag": "Hawker flavour",
+      "note": "Choose sealed packets with the longest best-before date.",
+      "reference_url": "Often at Changi food shops.",
+      "chinese_name": "百胜厨新加坡叻沙料理包",
+      "description": "A ready-to-cook kit for recreating rich Singapore-style laksa at home.",
+      "why_buy": "It delivers a recognisable hawker flavour in a suitcase-friendly pack.",
+      "local_price": "from S$8",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "FairPrice, Cold Storage, Mustafa Centre and supermarkets.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.7",
+      "review_count": 609,
+      "price_amount": "8.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 37,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJHMCpSCO_i6EVtbgdpPMOC1QhojPq8O5p69jtsPyEA&s=10",
+          "alt_text": "Prima Taste Singapore Laksa meal kit",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 37,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 37,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 37,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "country_id": 8,
+      "name": "Risis orchid brooch",
+      "price": "from S$95",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElkE8GCyKwOts5gOGOCx1NXS8aD4CjFdXWcVUM664cg&s=10",
+      "tag": "National flower keepsake",
+      "note": "Keep it in its presentation box.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-singapore.html/",
+      "chinese_name": "丽丝兰花胸针",
+      "description": "A jewellery-style orchid brooch from Singapore heritage gift brand RISIS.",
+      "why_buy": "The orchid makes a lasting, more refined Singapore symbol than a magnet.",
+      "local_price": "from S$95",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "RISIS boutiques, TANGS and Jewel Changi.",
+      "airport_availability": "Yes, at selected Changi retailers.",
+      "online_availability": "Available from RISIS online. ",
+      "rating": "4.7",
+      "review_count": 429,
+      "price_amount": "95.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 93,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElkE8GCyKwOts5gOGOCx1NXS8aD4CjFdXWcVUM664cg&s=10",
+          "alt_text": "Risis orchid brooch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 93,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "country_id": 8,
+      "name": "Singapore Memories Singapore Girl perfume",
+      "price": "from S$65",
+      "category": "Wellness",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8Zki9Sz-3WrhuYXvG1Wwo69ZDJ5jLMu6dapWY1Z2CA&s",
+      "tag": "Scented city memory",
+      "note": "Keep fragrances within airline liquid rules.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-singapore.html/",
+      "chinese_name": "新加坡回忆新加坡女孩香水",
+      "description": "A locally made perfume inspired by Singapore’s tropical heritage.",
+      "why_buy": "It is a sophisticated non-food souvenir that feels personal and place-specific.",
+      "local_price": "from S$65",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Singapore Memories boutiques, Design Orchard and selected gift shops.",
+      "airport_availability": "Selected airport availability.",
+      "online_availability": "Available from Singapore Memories online. ",
+      "rating": "4.6",
+      "review_count": 318,
+      "price_amount": "65.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 92,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8Zki9Sz-3WrhuYXvG1Wwo69ZDJ5jLMu6dapWY1Z2CA&s",
+          "alt_text": "Singapore Memories Singapore Girl perfume",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 92,
+          "reviewer_name": "Jia W.",
+          "rating": "4.6",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "country_id": 8,
+      "name": "Song Fa bak kut teh spice sachets",
+      "price": "from S$9",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegFCLVIa3r6E0BfBChz4VTDz4M8-Tid67BEpOk_2n7Q&s=10",
+      "tag": "Peppery comfort food",
+      "note": "Check destination rules if the kit contains meat products.",
+      "reference_url": "https://sg.trip.com/guide/info/what-to-buy-in-singapore.html/",
+      "chinese_name": "松发肉骨茶香料包",
+      "description": "Peppery herbal-spice sachets inspired by Song Fa’s Singapore bak kut teh.",
+      "why_buy": "It is a compact route to recreating a favourite Singapore comfort-food flavour.",
+      "local_price": "from S$9",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Song Fa outlets, FairPrice and specialty grocers.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available through Song Fa and marketplaces. ",
+      "rating": "4.7",
+      "review_count": 694,
+      "price_amount": "9.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 90,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegFCLVIa3r6E0BfBChz4VTDz4M8-Tid67BEpOk_2n7Q&s=10",
+          "alt_text": "Song Fa bak kut teh spice sachets",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 90,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "country_id": 8,
+      "name": "Supermama Singapore Icons porcelain plate",
+      "price": "from S$58",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy0KDuOQv8QM39-MNwZNdux2RRPvhthY5lXKLYMuJwBg&s=10",
+      "tag": "Design Orchard favourite",
+      "note": "Carry it in hand luggage or request protective wrapping.",
+      "reference_url": "https://www.visitsingapore.com/things-to-do/shop/",
+      "chinese_name": "Supermama 新加坡图标瓷盘",
+      "description": "A collectible porcelain plate featuring contemporary Singapore iconography.",
+      "why_buy": "It is a design-led keepsake from a local independent retailer.",
+      "local_price": "from S$58",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Supermama, Design Orchard and museum shops.",
+      "airport_availability": "Limited; buy in town.",
+      "online_availability": "Available from Supermama online. ",
+      "rating": "4.7",
+      "review_count": 352,
+      "price_amount": "58.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 94,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy0KDuOQv8QM39-MNwZNdux2RRPvhthY5lXKLYMuJwBg&s=10",
+          "alt_text": "Supermama Singapore Icons porcelain plate",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 94,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "country_id": 8,
+      "name": "Supermama Singapore Icons tea towel",
+      "price": "from S$28",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwApOfGfn5Ftns6J5mY41uaRPywv3OQhKU__6Ogs9Kw&s=10",
+      "tag": "Design Orchard pick",
+      "note": "Fold it flat to keep it crisp.",
+      "reference_url": "Limited; buy in town or Jewel.",
+      "chinese_name": "Supermama 新加坡图标茶巾",
+      "description": "A cotton tea towel illustrated with familiar Singapore scenes and icons.",
+      "why_buy": "It is a useful, contemporary local-design gift rather than generic tourist merch.",
+      "local_price": "from S$28",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Supermama, Design Orchard and selected museum shops.",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.6",
+      "review_count": 572,
+      "price_amount": "28.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 36,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwApOfGfn5Ftns6J5mY41uaRPywv3OQhKU__6Ogs9Kw&s=10",
+          "alt_text": "Supermama Singapore Icons tea towel",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 36,
+          "reviewer_name": "Jia W.",
+          "rating": "4.6",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 36,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 36,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "country_id": 8,
+      "name": "TWG Singapore Breakfast Tea tin",
+      "price": "from S$25",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVWOUmoI4w6ThRD6ExcVmSazKjXIjegONUhWblsfNZlA&s=10",
+      "tag": "Tea gift",
+      "note": "Choose a sealed tin for travel.",
+      "reference_url": "Yes, at Changi boutiques.",
+      "chinese_name": "TWG 新加坡早餐茶罐",
+      "description": "A polished tea tin from Singapore-founded luxury tea brand TWG Tea.",
+      "why_buy": "It is gift-ready and easy to share with tea drinkers.",
+      "local_price": "from S$25",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "TWG Tea salons, ION Orchard and Jewel Changi.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.9",
+      "review_count": 683,
+      "price_amount": "25.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 39,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVWOUmoI4w6ThRD6ExcVmSazKjXIjegONUhWblsfNZlA&s=10",
+          "alt_text": "TWG Singapore Breakfast Tea tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 39,
+          "reviewer_name": "Jia W.",
+          "rating": "4.9",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 39,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 39,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "country_id": 8,
+      "name": "Tiger Balm Red ointment tin",
+      "price": "from S$8",
+      "category": "Wellness",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4HtKusLXFGDC1AOGPSkyorJYrL23StXSBOlg9jlOMNA&s=10",
+      "tag": "Heritage remedy",
+      "note": "Check destination medicine rules before travelling.",
+      "reference_url": "https://www.visitsingapore.com/content/mice/en/tools-and-resources/plan-your-trip/",
+      "chinese_name": "虎标红色药膏",
+      "description": "A small tin of the familiar topical balm associated with Singapore heritage retail.",
+      "why_buy": "It is inexpensive, compact and useful long after the trip.",
+      "local_price": "from S$8",
+      "typical_overseas_price": "Usually more expensive or harder to find overseas.",
+      "savings": "Buy locally for fresher stock and a wider flavour range.",
+      "best_shops": "Tiger Balm stores, Mustafa Centre, Watsons and pharmacies.",
+      "airport_availability": "Often at airport pharmacies.",
+      "online_availability": "Widely available online. ",
+      "rating": "4.7",
+      "review_count": 883,
+      "price_amount": "8.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 91,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4HtKusLXFGDC1AOGPSkyorJYrL23StXSBOlg9jlOMNA&s=10",
+          "alt_text": "Tiger Balm Red ointment tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 91,
+          "reviewer_name": "Jia W.",
+          "rating": "4.7",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "country_id": 8,
+      "name": "Ya Kun Authentic Kaya jar",
+      "price": "from S$6",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMQGDCR_QcZzsvR_AMLRCfKNdczFK4KoI45qyHN_BCQ&s=10",
+      "tag": "Kopitiam classic",
+      "note": "Place glass jars in checked baggage when flying.",
+      "reference_url": "Available at selected airport stores.",
+      "chinese_name": "亚坤正宗咖椰酱",
+      "description": "Coconut, egg and pandan jam from a Singapore kaya-toast institution.",
+      "why_buy": "It brings home a classic Singapore breakfast ritual in a compact jar.",
+      "local_price": "from S$6",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Ya Kun outlets, FairPrice and Cold Storage.",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.6",
+      "review_count": 720,
+      "price_amount": "6.00",
+      "currency_code": "SGD",
+      "country": "Singapore",
+      "country_slug": "singapore",
+      "photos": [
+        {
+          "product_id": 40,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMQGDCR_QcZzsvR_AMLRCfKNdczFK4KoI45qyHN_BCQ&s=10",
+          "alt_text": "Ya Kun Authentic Kaya jar",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 40,
+          "reviewer_name": "Jia W.",
+          "rating": "4.6",
+          "body": "A recognisable Singapore pick with easy-to-pack gifting appeal.",
+          "created_at": "2026-07-20T16:00:00.000Z"
+        },
+        {
+          "product_id": 40,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 40,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

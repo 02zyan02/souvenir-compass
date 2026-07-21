@@ -1,0 +1,269 @@
+{
+  "country": {
+    "id": 1,
+    "slug": "brunei",
+    "name": "Brunei",
+    "chinese_name": "文莱",
+    "flag": "🇧🇳",
+    "city": "Bandar Seri Begawan",
+    "buy": "Rattan, woven textiles & local snacks",
+    "chinese_buy": "藤编、织物与当地小吃",
+    "tip": "Choose compact market crafts and sealed food gifts.",
+    "chinese_tip": "选择轻便的市集手工艺品和密封食品礼物。",
+    "shopping_location": "Pasarneka Tutong or Tamu Bangar",
+    "reference_url": "https://www.trip.com/guide/",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 2,
+      "country_id": 1,
+      "name": "Ambuyat seasoning set",
+      "price": "from B$6",
+      "category": "Snacks",
+      "image_url": "https://www.willflyforfood.net/wp-content/uploads/2018/08/ambuyat-featured3.jpg",
+      "tag": "Pantry find",
+      "note": "Bring home a shelf-stable way to recreate a local meal.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "安布雅特调味套装",
+      "description": "Ambuyat seasoning set is a packable local pantry gift with flavours that are hard to find outside Brunei.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from B$6",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasarneka Tutong or Tamu Bangar",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.8",
+      "review_count": 194,
+      "price_amount": "6.00",
+      "currency_code": "BND",
+      "country": "Brunei",
+      "country_slug": "brunei",
+      "photos": [
+        {
+          "product_id": 2,
+          "image_url": "https://www.willflyforfood.net/wp-content/uploads/2018/08/ambuyat-featured3.jpg",
+          "alt_text": "Ambuyat seasoning set",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 2,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 2,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "country_id": 1,
+      "name": "Kain tenunan scarf",
+      "price": "from B$25",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDr-M_N0KRW5rKRrUbUEQ5QtZxWZn6xItfmF0dT0uCQA&s=10",
+      "tag": "Woven heritage",
+      "note": "A compact woven scarf is easier to pack than yardage.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "文莱织布围巾",
+      "description": "Kain tenunan scarf is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from B$25",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasarneka Tutong or Tamu Bangar",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.6",
+      "review_count": 268,
+      "price_amount": "25.00",
+      "currency_code": "BND",
+      "country": "Brunei",
+      "country_slug": "brunei",
+      "photos": [
+        {
+          "product_id": 4,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDr-M_N0KRW5rKRrUbUEQ5QtZxWZn6xItfmF0dT0uCQA&s=10",
+          "alt_text": "Kain tenunan scarf",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 4,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 4,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "country_id": 1,
+      "name": "Kuih cincin gift tin",
+      "price": "from B$8",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHE9gSzU4avdc-_GBRPf5K4gmo8GD3jXI5quZRoYUPQ&s=10",
+      "tag": "Sweet shareable",
+      "note": "Pick a sealed tin with a clear expiry date.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "环形传统饼礼盒",
+      "description": "Kuih cincin gift tin is a packable local pantry gift with flavours that are hard to find outside Brunei.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from B$8",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasarneka Tutong or Tamu Bangar",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.9",
+      "review_count": 231,
+      "price_amount": "8.00",
+      "currency_code": "BND",
+      "country": "Brunei",
+      "country_slug": "brunei",
+      "photos": [
+        {
+          "product_id": 3,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHE9gSzU4avdc-_GBRPf5K4gmo8GD3jXI5quZRoYUPQ&s=10",
+          "alt_text": "Kuih cincin gift tin",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 3,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 3,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "country_id": 1,
+      "name": "Rattan basketry",
+      "price": "from B$12",
+      "category": "Home",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDD--EY6atjU6lc2Yv2YVSy6Af6sgLuZ5C7pKfUa_aQ&s=10",
+      "tag": "Market-made",
+      "note": "Inspect the weave and pack it carefully.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "藤编篮具",
+      "description": "Rattan basketry is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from B$12",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasarneka Tutong or Tamu Bangar",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 305,
+      "price_amount": "12.00",
+      "currency_code": "BND",
+      "country": "Brunei",
+      "country_slug": "brunei",
+      "photos": [
+        {
+          "product_id": 5,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDD--EY6atjU6lc2Yv2YVSy6Af6sgLuZ5C7pKfUa_aQ&s=10",
+          "alt_text": "Rattan basketry",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 5,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 5,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "country_id": 1,
+      "name": "Songkok cap",
+      "price": "from B$18",
+      "category": "Fashion",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHr62yiDtGli-mX-xryLnOwmWRle4GscJCSDFqFr1Caw&s=10",
+      "tag": "Classic keepsake",
+      "note": "Choose a structured cap that will not crush in transit.",
+      "reference_url": "https://www.trip.com/guide/",
+      "chinese_name": "宋谷帽",
+      "description": "Songkok cap is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from B$18",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Pasarneka Tutong or Tamu Bangar",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 157,
+      "price_amount": "18.00",
+      "currency_code": "BND",
+      "country": "Brunei",
+      "country_slug": "brunei",
+      "photos": [
+        {
+          "product_id": 1,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHr62yiDtGli-mX-xryLnOwmWRle4GscJCSDFqFr1Caw&s=10",
+          "alt_text": "Songkok cap",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 1,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 1,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

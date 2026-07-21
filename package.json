@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "concurrently \"vite\" \"npm:api\"",
+    "dev": "vite",
     "api": "node server/index.js",
-    "build": "tsc && vite build",
+    "build": "node scripts/prepare-static-data.mjs && tsc && vite build",
     "db:migrate": "node scripts/migrate.mjs",
     "preview": "vite preview",
     "start": "node server/index.js"

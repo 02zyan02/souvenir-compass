@@ -1,0 +1,269 @@
+{
+  "country": {
+    "id": 2,
+    "slug": "cambodia",
+    "name": "Cambodia",
+    "chinese_name": "柬埔寨",
+    "flag": "🇰🇭",
+    "city": "Siem Reap",
+    "buy": "Silk, pepper & artisan crafts",
+    "chinese_buy": "真丝、贡布胡椒与手工艺",
+    "tip": "Choose pieces sold by craft workshops and ask about the maker.",
+    "chinese_tip": "优先选择手工艺工坊售卖的作品，并询问制作者。",
+    "shopping_location": "Craft workshops and central markets",
+    "reference_url": "https://www.kkday.com/en/blog/",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 8,
+      "country_id": 2,
+      "name": "Handmade ceramics",
+      "price": "from US$12",
+      "category": "Home",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Potter_making_a_bowl_at_Khmer_ceramics_Centre.JPG/960px-Potter_making_a_bowl_at_Khmer_ceramics_Centre.JPG",
+      "tag": "Artisan-made",
+      "note": "Wrap small pieces in clothing for checked baggage.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "手工陶瓷",
+      "description": "Handmade ceramics is a practical handcrafted keepsake with a strong sense of place.",
+      "why_buy": "A lasting craft-focused reminder that is more personal than a mass-market souvenir.",
+      "local_price": "from US$12",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Craft workshops and central markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.6",
+      "review_count": 416,
+      "price_amount": "12.00",
+      "currency_code": "USD",
+      "country": "Cambodia",
+      "country_slug": "cambodia",
+      "photos": [
+        {
+          "product_id": 8,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Potter_making_a_bowl_at_Khmer_ceramics_Centre.JPG/960px-Potter_making_a_bowl_at_Khmer_ceramics_Centre.JPG",
+          "alt_text": "Handmade ceramics",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 8,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 8,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "country_id": 2,
+      "name": "Kampot pepper",
+      "price": "from US$5",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kampot_peppercorns_in_a_mango_wooden_bowl.jpg/960px-Kampot_peppercorns_in_a_mango_wooden_bowl.jpg",
+      "tag": "Kitchen favourite",
+      "note": "Buy sealed packets with the origin marked.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "贡布胡椒",
+      "description": "Kampot pepper is a packable local pantry gift with flavours that are hard to find outside Cambodia.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from US$5",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Craft workshops and central markets",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.7",
+      "review_count": 453,
+      "price_amount": "5.00",
+      "currency_code": "USD",
+      "country": "Cambodia",
+      "country_slug": "cambodia",
+      "photos": [
+        {
+          "product_id": 9,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kampot_peppercorns_in_a_mango_wooden_bowl.jpg/960px-Kampot_peppercorns_in_a_mango_wooden_bowl.jpg",
+          "alt_text": "Kampot pepper",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 9,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 9,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "country_id": 2,
+      "name": "Krama scarf",
+      "price": "from US$8",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Man_with_Krama.jpg/960px-Man_with_Krama.jpg",
+      "tag": "Everyday weave",
+      "note": "Ask sellers about fibre and maker.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "格罗玛围巾",
+      "description": "Krama scarf is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from US$8",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Craft workshops and central markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 490,
+      "price_amount": "8.00",
+      "currency_code": "USD",
+      "country": "Cambodia",
+      "country_slug": "cambodia",
+      "photos": [
+        {
+          "product_id": 10,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Man_with_Krama.jpg/960px-Man_with_Krama.jpg",
+          "alt_text": "Krama scarf",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 10,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 10,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "country_id": 2,
+      "name": "Palm sugar sweets",
+      "price": "from US$4",
+      "category": "Snacks",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcm0bnY5ai1DIWbB-O59JprgKSMFze10sHaR_uA4_P5w&s=10",
+      "tag": "Sweet gift",
+      "note": "Choose commercially packed sweets for easy sharing.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "棕榈糖甜点",
+      "description": "Palm sugar sweets is a packable local pantry gift with flavours that are hard to find outside Cambodia.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from US$4",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Craft workshops and central markets",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.9",
+      "review_count": 379,
+      "price_amount": "4.00",
+      "currency_code": "USD",
+      "country": "Cambodia",
+      "country_slug": "cambodia",
+      "photos": [
+        {
+          "product_id": 7,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcm0bnY5ai1DIWbB-O59JprgKSMFze10sHaR_uA4_P5w&s=10",
+          "alt_text": "Palm sugar sweets",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 7,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 7,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "country_id": 2,
+      "name": "Recycled-silk pouch",
+      "price": "from US$10",
+      "category": "Fashion",
+      "image_url": "https://i.etsystatic.com/13989099/r/il/9574b4/7536540015/il_300x300.7536540015_otua.jpg",
+      "tag": "Lightweight craft",
+      "note": "A useful, low-bulk gift from artisan markets.",
+      "reference_url": "https://www.kkday.com/en/blog/",
+      "chinese_name": "再生丝绸小袋",
+      "description": "Recycled-silk pouch is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from US$10",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Craft workshops and central markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.8",
+      "review_count": 342,
+      "price_amount": "10.00",
+      "currency_code": "USD",
+      "country": "Cambodia",
+      "country_slug": "cambodia",
+      "photos": [
+        {
+          "product_id": 6,
+          "image_url": "https://i.etsystatic.com/13989099/r/il/9574b4/7536540015/il_300x300.7536540015_otua.jpg",
+          "alt_text": "Recycled-silk pouch",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 6,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 6,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,29 +1,22 @@
 # Souvenir Compass
 
-The country guide, product recommendations, images, source links, categories, and trip checklist are stored in PostgreSQL. The React client loads them from `GET /api/catalog`.
+The country guide, product recommendations, images, source links, categories and trip checklist are maintained as static JSON. Each country has its own `data/catalog-<country>.json` file, and `data/catalog-index.json` joins the catalogue for the app.
 
 ## Run locally
 
-1. Copy `.env.example` to `.env` if you need a different database URL or port.
-2. Start the database: `docker compose up -d db`. PostgreSQL runs the schema and seed files in `database/` on its first start.
-3. Start the application: `npm run dev`.
+1. Start the application: `npm run dev`.
 
 For a production-style run, use `npm run build` followed by `npm start`.
 
-## Free persistent deployment
+## Static catalogue maintenance
 
-The repository is prepared for a zero-cost starter deployment using GitHub Pages for the React frontend, Render for the Express API, and Neon for PostgreSQL. The free plans have usage limits; Render's API service also spins down after inactivity, so the first request after it sleeps can take a short time.
+Edit the relevant `data/catalog-<country>.json` file to update products or country details. The build copies the catalogue to the public site automatically. Travel spots remain in `data/travel-spots-<country>.json`, and customs data remains in `data/country.json`.
 
-1. Create a free Neon project and copy its pooled `DATABASE_URL` connection string.
-2. In Render, choose **New > Blueprint**, select this GitHub repository, and create the `souvenir-compass-api` service from `render.yaml`. Set `DATABASE_URL` to the Neon value and `CORS_ORIGIN` to `https://02zyan02.github.io`. The build runs the tracked database migrations and seeds automatically.
-3. Copy the Render service URL, such as `https://souvenir-compass-api.onrender.com`.
-4. In GitHub repository **Settings > Secrets and variables > Actions > Variables**, add `API_URL` with that URL (without a trailing `/`). Then in **Settings > Pages**, choose **GitHub Actions** as the source. This is a one-time owner setting required before the workflow can publish. Push to `main` (or run the “Deploy frontend to GitHub Pages” workflow) to publish the frontend at `https://02zyan02.github.io/souvenir-compass/`. The workflow intentionally stops if `API_URL` is missing, preventing an empty catalogue from being published.
+## Free deployment
 
-`API_URL`, `DATABASE_URL`, and `CORS_ORIGIN` are intentionally not committed. If the database schema changes, Render applies each new numbered SQL migration once using `npm run db:migrate`.
+GitHub Pages hosts the complete static site; no API URL, backend host or database host is needed. In repository **Settings > Pages**, choose **GitHub Actions** as the source. Each push to `main` deploys to `https://02zyan02.github.io/souvenir-compass/`.
 
-### Render troubleshooting
-
-The Render URL must respond with `{"status":"ok"}` at `/api/health`. If the URL returns Render's plain `Not Found` page for both `/` and `/api/health`, the domain is not connected to the Express app. In the Render dashboard, confirm that the service is a **Web Service** built from the `main` branch at the repository root, then manually deploy the latest commit. Its build command should be `npm ci && npm run build && npm run db:migrate`, its start command should be `npm start`, and the logs should contain `Souvenir Compass API listening on port ...`.
+The optional `render.yaml` can still deploy a static-server copy, but it is not required for GitHub Pages.
 
 ## Free public preview
 
@@ -38,4 +31,4 @@ Copy the displayed `trycloudflare.com` URL to share the app. The URL is temporar
 
 ## Content sources
 
-Each seeded recommendation retains a source URL in the database. The expanded Vietnam, Thailand, and Indonesia suggestions are grounded in the Trip.com Bangkok shopping guide, KKday’s Vietnam souvenir guides, and Holafly’s Bali souvenir guide, respectively. Other country entries are curated as practical, packable local-gift suggestions and can be updated by editing the seed or through a future CMS/admin interface.
+Each product retains a source URL in its country catalogue JSON. The expanded Vietnam, Thailand and Indonesia suggestions are grounded in the Trip.com Bangkok shopping guide, KKday’s Vietnam souvenir guides and Holafly’s Bali souvenir guide, respectively. Other country entries are curated as practical, packable local-gift suggestions and can be updated directly in their JSON file.

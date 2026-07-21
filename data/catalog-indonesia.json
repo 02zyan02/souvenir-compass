@@ -1,0 +1,269 @@
+{
+  "country": {
+    "id": 3,
+    "slug": "indonesia",
+    "name": "Indonesia",
+    "chinese_name": "印度尼西亚",
+    "flag": "🇮🇩",
+    "city": "Yogyakarta",
+    "buy": "Batik, coffee & silverwork",
+    "chinese_buy": "蜡染、咖啡与银饰",
+    "tip": "Look for hand-stamped or hand-drawn batik, not mass-printed copies.",
+    "chinese_tip": "留意手绘或手工盖印蜡染，避开大批量印花仿品。",
+    "shopping_location": "Yogyakarta craft shops and markets",
+    "reference_url": "https://esim.holafly.com/travel-tips/bali-souvenirs/",
+    "find_count": 5
+  },
+  "products": [
+    {
+      "id": 15,
+      "country_id": 3,
+      "name": "Batik textile",
+      "price": "from Rp120,000",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maestro_Batik_Tulis_di_Imogiri.jpg/960px-Maestro_Batik_Tulis_di_Imogiri.jpg",
+      "tag": "Heritage craft",
+      "note": "Handmade pieces cost more than print.",
+      "reference_url": "https://esim.holafly.com/travel-tips/bali-souvenirs/",
+      "chinese_name": "蜡染布料",
+      "description": "Batik textile is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from Rp120,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Yogyakarta craft shops and markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.9",
+      "review_count": 675,
+      "price_amount": "120000.00",
+      "currency_code": "IDR",
+      "country": "Indonesia",
+      "country_slug": "indonesia",
+      "photos": [
+        {
+          "product_id": 15,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Maestro_Batik_Tulis_di_Imogiri.jpg/960px-Maestro_Batik_Tulis_di_Imogiri.jpg",
+          "alt_text": "Batik textile",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 15,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 15,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "country_id": 3,
+      "name": "Kopi Bali beans",
+      "price": "from Rp65,000",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bali_Coffee_anyone%3F_Hand_pounded_and_toasted_to_perfection._%282690581866%29.jpg/960px-Bali_Coffee_anyone%3F_Hand_pounded_and_toasted_to_perfection._%282690581866%29.jpg",
+      "tag": "Local roast",
+      "note": "Buy a roast date instead of an undated bag.",
+      "reference_url": "https://esim.holafly.com/travel-tips/bali-souvenirs/",
+      "chinese_name": "巴厘咖啡豆",
+      "description": "Kopi Bali beans is a packable local pantry gift with flavours that are hard to find outside Indonesia.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from Rp65,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Yogyakarta craft shops and markets",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.8",
+      "review_count": 638,
+      "price_amount": "65000.00",
+      "currency_code": "IDR",
+      "country": "Indonesia",
+      "country_slug": "indonesia",
+      "photos": [
+        {
+          "product_id": 14,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bali_Coffee_anyone%3F_Hand_pounded_and_toasted_to_perfection._%282690581866%29.jpg/960px-Bali_Coffee_anyone%3F_Hand_pounded_and_toasted_to_perfection._%282690581866%29.jpg",
+          "alt_text": "Kopi Bali beans",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 14,
+          "reviewer_name": "Maya L.",
+          "rating": "4.8",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 14,
+          "reviewer_name": "Noah T.",
+          "rating": "4.8",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "country_id": 3,
+      "name": "Natural body oil",
+      "price": "from Rp80,000",
+      "category": "Beauty",
+      "image_url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+      "tag": "Spa ritual",
+      "note": "Keep liquids within airline limits for hand luggage.",
+      "reference_url": "https://esim.holafly.com/travel-tips/bali-souvenirs/",
+      "chinese_name": "天然身体护理油",
+      "description": "Natural body oil is a locally inspired self-care pick that travels easily in a wash bag.",
+      "why_buy": "A small everyday ritual that recalls the destination after the trip.",
+      "local_price": "from Rp80,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Yogyakarta craft shops and markets",
+      "airport_availability": "Sometimes available in departure-side gift or beauty shops; stock varies by terminal.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.9",
+      "review_count": 527,
+      "price_amount": "80000.00",
+      "currency_code": "IDR",
+      "country": "Indonesia",
+      "country_slug": "indonesia",
+      "photos": [
+        {
+          "product_id": 11,
+          "image_url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+          "alt_text": "Natural body oil",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 11,
+          "reviewer_name": "Maya L.",
+          "rating": "4.9",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 11,
+          "reviewer_name": "Noah T.",
+          "rating": "4.9",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "country_id": 3,
+      "name": "Sambal paste",
+      "price": "from Rp25,000",
+      "category": "Snacks",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SAMBAL_BAWANG.jpg/960px-SAMBAL_BAWANG.jpg",
+      "tag": "Spice cupboard",
+      "note": "Pack factory-sealed jars in checked luggage.",
+      "reference_url": "https://esim.holafly.com/travel-tips/bali-souvenirs/",
+      "chinese_name": "参巴辣椒酱",
+      "description": "Sambal paste is a packable local pantry gift with flavours that are hard to find outside Indonesia.",
+      "why_buy": "Easy to share, lightweight to pack, and best bought where it is made.",
+      "local_price": "from Rp25,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Yogyakarta craft shops and markets",
+      "airport_availability": "Often available in selected airport food or duty-free shops; check stock before departure.",
+      "online_availability": "Sometimes sold by specialist grocers and marketplaces; check freshness and import rules.",
+      "rating": "4.6",
+      "review_count": 564,
+      "price_amount": "25000.00",
+      "currency_code": "IDR",
+      "country": "Indonesia",
+      "country_slug": "indonesia",
+      "photos": [
+        {
+          "product_id": 12,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SAMBAL_BAWANG.jpg/960px-SAMBAL_BAWANG.jpg",
+          "alt_text": "Sambal paste",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 12,
+          "reviewer_name": "Maya L.",
+          "rating": "4.6",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 12,
+          "reviewer_name": "Noah T.",
+          "rating": "4.6",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "country_id": 3,
+      "name": "Silver jewellery",
+      "price": "from Rp180,000",
+      "category": "Fashion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/COLLECTIE_TROPENMUSEUM_Zilveren_ring_met_rose_siersteen_TMnr_3934-51.jpg",
+      "tag": "Celuk-inspired",
+      "note": "Ask about metal content and artisan provenance.",
+      "reference_url": "https://esim.holafly.com/travel-tips/bali-souvenirs/",
+      "chinese_name": "银饰",
+      "description": "Silver jewellery is a compact wearable keepsake that brings a traditional local craft into everyday use.",
+      "why_buy": "A useful souvenir with more local character than a standard tourist trinket.",
+      "local_price": "from Rp180,000",
+      "typical_overseas_price": "Usually imported at a 30–70% premium, when stocked at all.",
+      "savings": "Buy locally to avoid import mark-ups and get the widest choice.",
+      "best_shops": "Yogyakarta craft shops and markets",
+      "airport_availability": "Limited at airports; buy in town for the best choice and price.",
+      "online_availability": "Available from selected specialist marketplaces, but provenance and prices vary.",
+      "rating": "4.7",
+      "review_count": 601,
+      "price_amount": "180000.00",
+      "currency_code": "IDR",
+      "country": "Indonesia",
+      "country_slug": "indonesia",
+      "photos": [
+        {
+          "product_id": 13,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/COLLECTIE_TROPENMUSEUM_Zilveren_ring_met_rose_siersteen_TMnr_3934-51.jpg",
+          "alt_text": "Silver jewellery",
+          "position": 1
+        }
+      ],
+      "reviews": [
+        {
+          "product_id": 13,
+          "reviewer_name": "Maya L.",
+          "rating": "4.7",
+          "body": "Packed well and made a thoughtful gift. I would buy it again from a local shop.",
+          "created_at": "2026-05-17T16:00:00.000Z"
+        },
+        {
+          "product_id": 13,
+          "reviewer_name": "Noah T.",
+          "rating": "4.7",
+          "body": "Good value compared with imported options; check the label and keep the receipt.",
+          "created_at": "2026-03-01T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
