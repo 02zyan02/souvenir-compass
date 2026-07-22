@@ -17,7 +17,11 @@
       "nearbyAttractions": "An Bàng Beach, My Son Sanctuary",
       "travelTips": "Explore early morning or after sunset, and carry small cash for food stalls.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DNzdNuh12lTrVQe0wVoB82suOBf86B6IX-RTw0c80w&s=10",
-      "mapQuery": "Hoi An Ancient Town, Vietnam"
+      "mapQuery": "Hoi An Ancient Town, Vietnam",
+      "chineseName": "会安古城",
+      "chineseLocation": "广南省，会安，越南",
+      "chineseCategory": "历史古镇",
+      "chineseShortDescription": "灯笼点缀的河畔贸易古镇，保留木造民居、庙宇与日式建筑影响。"
     },
     {
       "id": "ninh-binh-trang-an",
@@ -35,7 +39,11 @@
       "nearbyAttractions": "Tam Cốc, Hoa Lư Ancient Capital",
       "travelTips": "Go early to avoid crowds and bring sun protection for the open boat.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hrdR-mK5R483oOvFkGP3DxACNvBYuE-aPTyIVknrXw&s",
-      "mapQuery": "Trang An Scenic Landscape Complex, Ninh Binh, Vietnam"
+      "mapQuery": "Trang An Scenic Landscape Complex, Ninh Binh, Vietnam",
+      "chineseName": "宁平长安名胜群",
+      "chineseLocation": "宁平省，越南",
+      "chineseCategory": "自然与文化景观",
+      "chineseShortDescription": "联合国教科文组织世界遗产地，拥有石灰岩峰林、水道、洞穴与古老寺庙。"
     },
     {
       "id": "phong-nha-ke-bang",
@@ -53,7 +61,11 @@
       "nearbyAttractions": "Dark Cave, Son Trach",
       "travelTips": "Book specialist caves well ahead and avoid the wettest months for more reliable access.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7NmreOOxrj3IxBLWDjSMJzh8IkUCKT5fXX1d2RHVA8g&s=10",
-      "mapQuery": "Phong Nha Ke Bang National Park, Vietnam"
+      "mapQuery": "Phong Nha Ke Bang National Park, Vietnam",
+      "chineseName": "丰芽—格邦国家公园",
+      "chineseLocation": "广平省，越南",
+      "chineseCategory": "国家公园",
+      "chineseShortDescription": "以巨型洞穴系统、河流和丛林喀斯特地貌闻名的壮丽国家公园。"
     },
     {
       "id": "ho-chi-minh-city",
@@ -71,7 +83,11 @@
       "nearbyAttractions": "Củ Chi Tunnels, Chợ Lớn",
       "travelTips": "Use ride-hailing for longer trips and plan indoor museum visits during the hottest part of the day.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjal1ZrsmmanUVe0kRCZdJLU4oQw_4403UJSf0jEduQ&s=10",
-      "mapQuery": "Ho Chi Minh City, Vietnam"
+      "mapQuery": "Ho Chi Minh City, Vietnam",
+      "chineseName": "胡志明市",
+      "chineseLocation": "越南南部",
+      "chineseCategory": "活力都市",
+      "chineseShortDescription": "越南南部充满活力的大都会，融合殖民地建筑、市场、博物馆与现代咖啡文化。"
     },
     {
       "id": "ha-long-bay",
@@ -89,7 +105,11 @@
       "nearbyAttractions": "Ti Top Island, Sung Sot Cave",
       "travelTips": "Book a cruise ahead, bring sunscreen and check weather conditions.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0wipCnDtH-PUZa3SKnhXmgn8cfbWSaSt3h1TnKe5NQ&s=10",
-      "mapQuery": "Ha Long Bay, Quang Ninh, Vietnam"
+      "mapQuery": "Ha Long Bay, Quang Ninh, Vietnam",
+      "chineseName": "下龙湾",
+      "chineseLocation": "广宁省，越南",
+      "chineseCategory": "自然奇观",
+      "chineseShortDescription": "由石灰岩岛屿从翡翠色海水中拔起的联合国教科文组织世界遗产海景。"
     },
     {
       "id": "hanoi",
@@ -107,7 +127,11 @@
       "nearbyAttractions": "Hoàn Kiếm Lake, Temple of Literature",
       "travelTips": "Cross roads carefully and explore early for a quieter Old Quarter.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrL_UnfI1a-EbltOFoGj5KPtJv_i0bcoK8Jl84bcCYA&s=10",
-      "mapQuery": "Hanoi, Vietnam"
+      "mapQuery": "Hanoi, Vietnam",
+      "chineseName": "河内",
+      "chineseLocation": "河内市，越南",
+      "chineseCategory": "历史首都",
+      "chineseShortDescription": "越南历史首都，拥有老城区巷弄、湖泊、博物馆和丰富的美食文化。"
     },
     {
       "id": "sapa",
@@ -125,7 +149,11 @@
       "nearbyAttractions": "Fansipan, Muong Hoa Valley",
       "travelTips": "Bring layers: mountain weather changes quickly.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtUPtDHf16WodUDoXrmHvpiHO-RfrFGIFZqBBGU2gCsw&s=10",
-      "mapQuery": "Sapa, Lao Cai, Vietnam"
+      "mapQuery": "Sapa, Lao Cai, Vietnam",
+      "chineseName": "沙坝梯田",
+      "chineseLocation": "老街省，越南",
+      "chineseCategory": "山地景观",
+      "chineseShortDescription": "高山梯田与少数民族村落交织的凉爽山城景观。"
     },
     {
       "id": "hue",
@@ -143,7 +171,11 @@
       "nearbyAttractions": "Thiên Mụ Pagoda, Khải Định Tomb",
       "travelTips": "Use a bicycle or driver to link the dispersed tombs.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyYFWm7-S2QcyV3qqaxOHkYrHzxXPHIOLeIGE7Femrw&s=10",
-      "mapQuery": "Hue Imperial City, Vietnam"
+      "mapQuery": "Hue Imperial City, Vietnam",
+      "chineseName": "顺化皇城",
+      "chineseLocation": "顺化，越南",
+      "chineseCategory": "皇室文化遗产",
+      "chineseShortDescription": "阮朝皇宫、陵墓与香江两岸景观共同构成的越南皇城文化中心。"
     },
     {
       "id": "da-nang",
@@ -161,7 +193,11 @@
       "nearbyAttractions": "Hội An, Bà Nà Hills",
       "travelTips": "Plan beaches early and leave room for a day trip to Hội An.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYIO3ABSIX4GddutvlHtpqc7oFFNZ8q8G4JSDDUNJFQ&s=10",
-      "mapQuery": "Da Nang, Vietnam"
+      "mapQuery": "Da Nang, Vietnam",
+      "chineseName": "岘港",
+      "chineseLocation": "越南中部",
+      "chineseCategory": "海滨城市",
+      "chineseShortDescription": "拥有绵长海滩、现代城市氛围，并可轻松前往越南中部名胜的海滨城市。"
     },
     {
       "id": "nha-trang",
@@ -179,7 +215,11 @@
       "nearbyAttractions": "Po Nagar Cham Towers, Hon Mun",
       "travelTips": "Book licensed boat trips and use reef-safe sunscreen.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2_ZSM_A2_gmhiSyTBWnnooqvAriTmkIF9eujBRDw9Q&s=10",
-      "mapQuery": "Nha Trang, Vietnam"
+      "mapQuery": "Nha Trang, Vietnam",
+      "chineseName": "芽庄湾",
+      "chineseLocation": "庆和省，越南",
+      "chineseCategory": "海滩度假地",
+      "chineseShortDescription": "由城市海滩、岛屿、海鲜与水上活动组成的热带海湾度假地。"
     },
     {
       "id": "da-lat",
@@ -197,7 +237,11 @@
       "nearbyAttractions": "Langbiang Mountain, Xuân Hương Lake",
       "travelTips": "Pack a light jacket for cool evenings.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuc8MT9MHVM_iX-ShGZKYIdfAlNJUXmtJMlWOdfagww&s=10",
-      "mapQuery": "Da Lat, Vietnam"
+      "mapQuery": "Da Lat, Vietnam",
+      "chineseName": "大叻",
+      "chineseLocation": "林同省，越南",
+      "chineseCategory": "高原避暑地",
+      "chineseShortDescription": "松林覆盖的凉爽高原城市，以花卉农场、湖泊和咖啡馆文化闻名。"
     },
     {
       "id": "phu-quoc",
@@ -215,7 +259,11 @@
       "nearbyAttractions": "Sao Beach, Phú Quốc National Park",
       "travelTips": "Book ferries and flights early in peak season.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxm4_yYFoWh3gOT2MhEd25HvFQK22mLEhjoSsS0HFQ2g&s=10",
-      "mapQuery": "Phu Quoc, Vietnam"
+      "mapQuery": "Phu Quoc, Vietnam",
+      "chineseName": "富国岛",
+      "chineseLocation": "坚江省，越南",
+      "chineseCategory": "海岛度假地",
+      "chineseShortDescription": "拥有热带海滩、清澈海水和悠闲岛屿节奏的越南南部岛屿。"
     },
     {
       "id": "mui-ne",
@@ -233,7 +281,11 @@
       "nearbyAttractions": "Phan Thiết, fishing village",
       "travelTips": "Visit dunes around sunrise or sunset and protect electronics from sand.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dO-pDKf-5qcbpoiJPQLHIgZCVpwAlKU5HcwWELLT9w&s=10",
-      "mapQuery": "Mui Ne, Vietnam"
+      "mapQuery": "Mui Ne, Vietnam",
+      "chineseName": "美奈沙丘",
+      "chineseLocation": "平顺省，越南",
+      "chineseCategory": "海岸地貌",
+      "chineseShortDescription": "以红白沙丘、海滩与风帆运动闻名的海岸小镇。"
     },
     {
       "id": "ha-giang",
@@ -251,7 +303,11 @@
       "nearbyAttractions": "Mã Pí Lèng Pass, Nho Quế River",
       "travelTips": "Use an experienced local driver if you are not confident on mountain roads.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjvSCi3s6555-JTGKSofLrJ2p_f_e7V8Z11Ro2n0ZVw&s=10",
-      "mapQuery": "Ha Giang, Vietnam"
+      "mapQuery": "Ha Giang, Vietnam",
+      "chineseName": "河江环线",
+      "chineseLocation": "河江省，越南",
+      "chineseCategory": "山地公路旅行",
+      "chineseShortDescription": "穿越石灰岩山口与少数民族村落的壮观北部山地路线。"
     },
     {
       "id": "con-dao",
@@ -269,7 +325,11 @@
       "nearbyAttractions": "Côn Đảo National Park, Côn Sơn town",
       "travelTips": "Accommodation is limited; reserve early in high season.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLB768eTMCvtArPXLUPdpAm65pBmDhej97COTWQ90_qw&s=10",
-      "mapQuery": "Con Dao Islands, Vietnam"
+      "mapQuery": "Con Dao Islands, Vietnam",
+      "chineseName": "昆仑岛",
+      "chineseLocation": "巴地—头顿省，越南",
+      "chineseCategory": "海岛自然景观",
+      "chineseShortDescription": "宁静海滩、海洋生物与深刻历史记忆并存的群岛。"
     }
   ]
 }

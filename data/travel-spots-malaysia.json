@@ -17,7 +17,11 @@
       "nearbyAttractions": "Cheong Fatt Tze Mansion, Kek Lok Si Temple",
       "travelTips": "Walk early or late for cooler weather and use a map to find murals beyond the busiest lanes.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTdcXcgdT3qRx9BGPNenYvxNRt5VVm269RIGXAVByn_Q&s=10",
-      "mapQuery": "George Town, Penang, Malaysia"
+      "mapQuery": "George Town, Penang, Malaysia",
+      "chineseName": "乔治市历史城区",
+      "chineseLocation": "槟城乔治市，马来西亚",
+      "chineseCategory": "历史城区",
+      "chineseShortDescription": "联合国教科文组织世界遗产城区，汇集华人店屋、街头艺术、宗教建筑与多元美食。"
     },
     {
       "id": "melaka-heritage",
@@ -35,7 +39,11 @@
       "nearbyAttractions": "A Famosa, St. Paul’s Hill",
       "travelTips": "Visit Jonker Street on a weekend evening for the night market, but expect crowds.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKnvbqZEXAI6RYyKabVUsbcKmFwM0nR07hyShdlfv9A&s=10",
-      "mapQuery": "Melaka Historic City, Malaysia"
+      "mapQuery": "Melaka Historic City, Malaysia",
+      "chineseName": "马六甲历史城区",
+      "chineseLocation": "马六甲，马来西亚",
+      "chineseCategory": "历史文化遗产",
+      "chineseShortDescription": "拥有荷兰、葡萄牙与娘惹文化痕迹的河畔古城，也是联合国教科文组织世界遗产地。"
     },
     {
       "id": "langkawi-geopark",
@@ -53,7 +61,11 @@
       "nearbyAttractions": "Eagle Square, Tanjung Rhu Beach",
       "travelTips": "Book boat tours with licensed operators and plan outdoor activities before afternoon rain.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlSnrLaIS9i_sfi-t2ApkcdnBiOF4lf2Ni7xT06ETgw&s=10",
-      "mapQuery": "Langkawi UNESCO Global Geopark, Malaysia"
+      "mapQuery": "Langkawi UNESCO Global Geopark, Malaysia",
+      "chineseName": "浮罗交怡联合国教科文组织世界地质公园",
+      "chineseLocation": "吉打浮罗交怡，马来西亚",
+      "chineseCategory": "岛屿自然景观",
+      "chineseShortDescription": "由雨林、红树林、石灰岩地貌和安达曼海岛屿组成的热带地质公园。"
     },
     {
       "id": "batu-caves",
@@ -71,7 +83,11 @@
       "nearbyAttractions": "Kuala Lumpur, Dark Cave area",
       "travelTips": "Dress modestly, watch for monkeys and bring water for the stairs.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdE42xMyge-sN339SNrNkEQdWSRBINCMMOaMnxghYWrw&s=10",
-      "mapQuery": "Batu Caves, Malaysia"
+      "mapQuery": "Batu Caves, Malaysia",
+      "chineseName": "黑风洞",
+      "chineseLocation": "雪兰莪鹅唛，马来西亚",
+      "chineseCategory": "宗教地标",
+      "chineseShortDescription": "石灰岩山洞中的印度教圣地，以彩色阶梯和巨大的室建陀神像闻名。"
     },
     {
       "id": "petronas-towers",
@@ -89,7 +105,11 @@
       "nearbyAttractions": "Aquaria KLCC, Bukit Bintang",
       "travelTips": "Reserve timed entry online, especially on weekends.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd515sWZJmt0H3gaf3NOjdCJmEZXzKoDGpy8CKVPY5Q&s",
-      "mapQuery": "Petronas Twin Towers, Kuala Lumpur, Malaysia"
+      "mapQuery": "Petronas Twin Towers, Kuala Lumpur, Malaysia",
+      "chineseName": "双子塔",
+      "chineseLocation": "吉隆坡，马来西亚",
+      "chineseCategory": "城市地标",
+      "chineseShortDescription": "吉隆坡最具代表性的摩天大楼，以伊斯兰几何元素与空中桥梁设计著称。"
     }
   ]
 }

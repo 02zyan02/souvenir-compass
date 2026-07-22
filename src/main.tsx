@@ -86,6 +86,10 @@ type TravelSpot = {
   travelTips: string;
   photo: string;
   mapQuery: string;
+  chineseName?: string;
+  chineseLocation?: string;
+  chineseCategory?: string;
+  chineseShortDescription?: string;
 };
 type CartLine = { quantity: number; selected: boolean };
 type Catalog = {
@@ -416,13 +420,13 @@ function App() {
                 key={spot.id}
                 onClick={() => setSelectedSpot(spot)}
               >
-                <img src={spot.photo} alt={spot.name} />
+                <img src={spot.photo} alt={zh ? spot.chineseName ?? spot.name : spot.name} />
                 <div>
                   <small>
-                    {spot.country} · {spot.category}
+                    {zh ? spot.chineseCategory ?? spot.category : spot.category}
                   </small>
-                  <h3>{spot.name}</h3>
-                  <p>{spot.shortDescription}</p>
+                  <h3>{zh ? spot.chineseName ?? spot.name : spot.name}</h3>
+                  <p>{zh ? spot.chineseShortDescription ?? spot.shortDescription : spot.shortDescription}</p>
                   <span>View details →</span>
                 </div>
               </button>
@@ -857,19 +861,19 @@ function App() {
             <img
               className="spot-hero"
               src={selectedSpot.photo}
-              alt={selectedSpot.name}
+              alt={zh ? selectedSpot.chineseName ?? selectedSpot.name : selectedSpot.name}
             />
             <div className="spot-detail">
               <p className="eyebrow">
                 {selectedSpot.country.toUpperCase()} ·{" "}
-                {selectedSpot.category.toUpperCase()}
+                {(zh ? selectedSpot.chineseCategory ?? selectedSpot.category : selectedSpot.category).toUpperCase()}
               </p>
-              <h2>{selectedSpot.name}</h2>
-              <p>{selectedSpot.shortDescription}</p>
+              <h2>{zh ? selectedSpot.chineseName ?? selectedSpot.name : selectedSpot.name}</h2>
+              <p>{zh ? selectedSpot.chineseShortDescription ?? selectedSpot.shortDescription : selectedSpot.shortDescription}</p>
               <dl>
                 <div>
                   <dt>Location</dt>
-                  <dd>{selectedSpot.location}</dd>
+                  <dd>{zh ? selectedSpot.chineseLocation ?? selectedSpot.location : selectedSpot.location}</dd>
                 </div>
                 <div>
                   <dt>Why visit</dt>

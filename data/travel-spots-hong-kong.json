@@ -17,7 +17,11 @@
       "nearbyAttractions": "Central, Hong Kong Park, Lan Kwai Fong",
       "travelTips": "Go on a weekday or arrive early; use the Circle Walk for wide views with fewer crowds.",
       "photo": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcREA9lX-tPm2Qu1dLvX9Q4l4KWFRaoHxjDwgCyIATP5gJxae57ohP7WEDXGe35ELkyrdva7ZMiUXaswtbIyGhZpcth9&s=19",
-      "mapQuery": "Victoria Peak, Hong Kong"
+      "mapQuery": "Victoria Peak, Hong Kong",
+      "chineseName": "太平山顶",
+      "chineseLocation": "香港岛，香港",
+      "chineseCategory": "观景台",
+      "chineseShortDescription": "香港岛最知名的高地观景点，可俯瞰维多利亚港与九龙的壮阔景色。"
     },
     {
       "id": "victoria-harbour-star-ferry",
@@ -35,7 +39,11 @@
       "nearbyAttractions": "Tsim Sha Tsui Promenade, Clock Tower, Hong Kong Cultural Centre",
       "travelTips": "Take the upper deck at least once and keep an Octopus card ready for simple boarding.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGmt_YCsXrw0THJ0SmrCzxrHGbAolj2XieEOb_USpkQ&s=10",
-      "mapQuery": "Star Ferry Tsim Sha Tsui, Hong Kong"
+      "mapQuery": "Star Ferry Tsim Sha Tsui, Hong Kong",
+      "chineseName": "维多利亚港与天星小轮",
+      "chineseLocation": "中环及尖沙咀，香港",
+      "chineseCategory": "海港体验",
+      "chineseShortDescription": "标志性的渡轮连接港岛与九龙，让旅客近距离欣赏著名的香港天际线。"
     },
     {
       "id": "tian-tan-buddha",
@@ -53,7 +61,11 @@
       "nearbyAttractions": "Tai O Fishing Village, Lantau hiking trails",
       "travelTips": "Book cable-car tickets ahead in busy periods and bring water for the steps.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCa-fWSmDCgfWGpghgln1-E3Hk32KWGZKbI4P33Eeziw&s=10",
-      "mapQuery": "Tian Tan Buddha, Hong Kong"
+      "mapQuery": "Tian Tan Buddha, Hong Kong",
+      "chineseName": "天坛大佛与宝莲禅寺",
+      "chineseLocation": "大屿山昂坪，香港",
+      "chineseCategory": "宗教地标",
+      "chineseShortDescription": "34米高的铜坐佛矗立于宝莲禅寺之上，坐落在大屿山的青翠山峦之间。"
     },
     {
       "id": "tai-kwun",
@@ -71,7 +83,11 @@
       "nearbyAttractions": "PMQ, SoHo, Man Mo Temple",
       "travelTips": "Check the event calendar before visiting and combine it with a walk through Old Town Central.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAY9Sj1QiuLIjUdlmCtVn96-CiWEZxAvaInYXBr_Z5bQ&s=10",
-      "mapQuery": "Tai Kwun Centre for Heritage and Arts, Hong Kong"
+      "mapQuery": "Tai Kwun Centre for Heritage and Arts, Hong Kong",
+      "chineseName": "大馆",
+      "chineseLocation": "中环，香港",
+      "chineseCategory": "古迹与艺术",
+      "chineseShortDescription": "由旧警署、裁判署及监狱活化而成的文化地标，现汇聚历史建筑与当代艺术。"
     },
     {
       "id": "temple-street-night-market",
@@ -89,7 +105,11 @@
       "nearbyAttractions": "Jade Market, Yau Ma Tei, Kowloon Park",
       "travelTips": "Agree on a price before buying and keep valuables secure in the busy lanes.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlT4XQTdyQ2c3EmT9nlUC6kx8OBeZE3Y6NlHMc0h6XyQ&s=10",
-      "mapQuery": "Temple Street Night Market, Hong Kong"
+      "mapQuery": "Temple Street Night Market, Hong Kong",
+      "chineseName": "庙街夜市",
+      "chineseLocation": "九龙佐敦，香港",
+      "chineseCategory": "夜市",
+      "chineseShortDescription": "充满地道香港气氛的九龙夜市，以街头美食、摊档和夜生活闻名。"
     },
     {
       "id": "hong-kong-disneyland",
@@ -107,7 +127,11 @@
       "nearbyAttractions": "Tung Chung, Ngong Ping 360",
       "travelTips": "Reserve tickets and popular dining early; arrive before opening for shorter first-hour queues.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwY2Sssen3pNuWZzhkopQIsuXdHcmN-Rh5EJCYC1rXXQ&s=10",
-      "mapQuery": "Hong Kong Disneyland"
+      "mapQuery": "Hong Kong Disneyland",
+      "chineseName": "香港迪士尼乐园",
+      "chineseLocation": "大屿山竹篙湾，香港",
+      "chineseCategory": "主题乐园",
+      "chineseShortDescription": "规模精巧的迪士尼主题乐园，融合经典游乐设施、亚洲独有体验与特色城堡。"
     },
     {
       "id": "sai-kung-geopark",
@@ -125,7 +149,11 @@
       "nearbyAttractions": "Sharp Island, High Island Reservoir, Sai Kung Town",
       "travelTips": "Check sea conditions before booking a boat and carry sun protection, water and cash.",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3Ar8n49BerwFlUbfsg_6C35gQm1kL6dKPSj1GkUENg&s=10",
-      "mapQuery": "Hong Kong UNESCO Global Geopark Sai Kung"
+      "mapQuery": "Hong Kong UNESCO Global Geopark Sai Kung",
+      "chineseName": "西贡与香港联合国教科文组织世界地质公园",
+      "chineseLocation": "新界西贡，香港",
+      "chineseCategory": "海岸自然景观",
+      "chineseShortDescription": "远离市区的海岸地区，拥有火山岩地貌、清澈海水、岛屿和远足路线。"
     }
   ]
 }
